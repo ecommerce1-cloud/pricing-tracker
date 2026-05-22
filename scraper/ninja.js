@@ -95,18 +95,22 @@ async function scrapeNinja(barcodes, searchKeywords = []) {
     const page = await context.newPage();
     const allProductsByEan = new Map();
 
-    // Step 1: Try searching each barcode directly
-    for (const barcode of barcodes) {
-      console.log(`[Ninja] Searching for barcode: ${barcode}`);
+    // Step 1: Search by keywords to build product index
+    // (Ninja does not support barcode/EAN search, so we search by brand keywords)
+    const searchTerms = searchKeywords.length > 0 ? searchKeywords : ['hotpack'];
+    console.log(`[Ninja] Searching by keywords: ${searchTerms.join(', ')}`);
+
+    for (const term of searchTerms) {
+      console.log(`[Ninja] Searching for: "${term}"`);
       try {
-        await page.goto(`${NINJA_SEARCH_URL}?q=${barcode}`, {
+        await page.goto(`${NINJA_SEARCH_URL}?q=${term}`, {
           waitUntil: 'domcontentloaded',
           timeout: 30000,
         });
-        await page.waitForTimeout(4000);
+        await page.waitForTimeout(5000);
 
         const products = await extractProductsFromPage(page);
-        console.log(`[Ninja] Found ${products.length} products for barcode "${barcode}"`);
+        console.log(`[Ninja] Found ${products.length} products for "${term}"`);
 
         for (const product of products) {
           const ean = extractEanFromMediaUrl(product.medias);
@@ -115,41 +119,11 @@ async function scrapeNinja(barcodes, searchKeywords = []) {
           }
         }
       } catch (err) {
-        console.error(`[Ninja] Error searching "${barcode}": ${err.message}`);
+        console.error(`[Ninja] Error searching "${term}": ${err.message}`);
       }
     }
 
-    // Step 2: If barcode search didn't work, try brand-based search
-    if (allProductsByEan.size === 0) {
-      console.log('[Ninja] Barcode search found no products. Trying broad product search...');
-
-      const searchTerms = searchKeywords.length > 0 ? searchKeywords : ['hotpack'];
-
-      for (const term of searchTerms) {
-        console.log(`[Ninja] Searching for: "${term}"`);
-        try {
-          await page.goto(`${NINJA_SEARCH_URL}?q=${term}`, {
-            waitUntil: 'domcontentloaded',
-            timeout: 30000,
-          });
-          await page.waitForTimeout(5000);
-
-          const products = await extractProductsFromPage(page);
-          console.log(`[Ninja] Found ${products.length} products for "${term}"`);
-
-          for (const product of products) {
-            const ean = extractEanFromMediaUrl(product.medias);
-            if (ean) {
-              allProductsByEan.set(ean, product);
-            }
-          }
-        } catch (err) {
-          console.error(`[Ninja] Error in brand search "${term}": ${err.message}`);
-        }
-      }
-
-      console.log(`[Ninja] Total products indexed by EAN: ${allProductsByEan.size}`);
-    }
+    console.log(`[Ninja] Total products indexed by EAN: ${allProductsByEan.size}`);
 
     // Step 3: Match barcodes to products
     for (const barcode of barcodes) {

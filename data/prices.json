@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T20:03:28.168Z",
+  "lastUpdated": "2026-05-22T17:39:06.345Z",
   "products": [
     {
       "barcode": "6291101711597",
@@ -10,7 +10,7 @@
         "isAvailable": true,
         "productId": "19386228",
         "url": "https://ananinja.com/sa/en/product/hotpack-disposable-gloves-100-pcs-19386228",
-        "lastChecked": "2026-05-21T19:48:07.478Z"
+        "lastChecked": "2026-05-22T17:39:06.345Z"
       },
       "amazon": {
         "price": null,
@@ -82,7 +82,3340 @@
         "isAvailable": true,
         "productId": "19293963",
         "url": "https://ananinja.com/sa/en/product/hotpack-zipper-lock-bag-12-25cm-50pcs-19293963",
-        "lastChecked": "2026-05-21T20:03:28.168Z"
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712471",
+      "name": "Hotpack Bamboo Skewer 6 Inches 100 pcs",
+      "nameAr": "هوت باك عيدان خيزران 6 إنش 100 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101712471_1.png",
+      "ninja": {
+        "price": 3.95,
+        "originalPrice": 3.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386218",
+        "url": "https://ananinja.com/sa/en/product/hotpack-bamboo-skewer-6-inches-100-pcs-19386218",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710835",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711375",
+      "name": "Hotpack Plastic Dessert Spoon 50Pcs ",
+      "nameAr": "هوت باك ملاعق حلويات بلاستيك 50حبة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711375_1.png",
+      "ninja": {
+        "price": 6.5,
+        "originalPrice": 6.5,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293934",
+        "url": "https://ananinja.com/sa/en/product/hotpack-plastic-dessert-spoon-50pcs-19293934",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711399",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710811",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711382",
+      "name": "Hotpack Plastic Fork 50Pcs",
+      "nameAr": "هوت باك شوكة بلاستيك 50 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711382_1.png",
+      "ninja": {
+        "price": 7.65,
+        "originalPrice": 7.65,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293956",
+        "url": "https://ananinja.com/sa/en/product/hotpack-plastic-fork-50pcs-19293956",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713980",
+      "name": "Hotpack Paper K+C2:C43ahwa Cup White 2.5 ounce 50 pcs",
+      "nameAr": "هوت باك أكواب ورقية قهوة بيضاء 2.5 أونصة 50 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/6291101713980.jpg",
+      "ninja": {
+        "price": 5.95,
+        "originalPrice": 5.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386212",
+        "url": "https://ananinja.com/sa/en/product/hotpack-paper-k-c2-c43ahwa-cup-white-2-5-ounce-50-pcs-19386212",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716592",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711702",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710439",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710545",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711610",
+      "name": "Hotpack Food Wrap Cling Film 100 Sqft",
+      "nameAr": "هوت باك غلاف حفظ  طعام رول 100 قدم مربع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711610_1.png",
+      "ninja": {
+        "price": 13.15,
+        "originalPrice": 13.15,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293967",
+        "url": "https://ananinja.com/sa/en/product/hotpack-food-wrap-cling-film-100-sqft-19293967",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710446",
+      "name": "Hotpack Micro Wave Container Round 450ml-5Pcs",
+      "nameAr": "هوت باك علب مايكروويف مستديرة 450 ملي 5 قطع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101710446_1.png",
+      "ninja": {
+        "price": 13.15,
+        "originalPrice": 13.15,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293971",
+        "url": "https://ananinja.com/sa/en/product/hotpack-micro-wave-container-round-450ml-5pcs-19293971",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715960",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141853901",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711955",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710026",
+      "name": "Hotpack Aluminium Container 10Pcs 890 ml",
+      "nameAr": "هوت باك حافظة طعام  المنيوم  10 قطع 890 ملي",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101710026_3.png",
+      "ninja": {
+        "price": 13.15,
+        "originalPrice": 13.15,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293938",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-container-10pcs-890-ml-19293938",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710019",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714130",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711184",
+      "name": "Hotpack Microwave Container Rectangular 750ml 5Pcs",
+      "nameAr": "هوت باك علب ميكروويف مستطيلة  750 ملي5 قطع",
+      "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/80c0e52b-fb38-4cbe-abb6-133ca7dd3702",
+      "ninja": {
+        "price": 4.95,
+        "originalPrice": 10.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293959",
+        "url": "https://ananinja.com/sa/en/product/hotpack-microwave-container-rectangular-750ml-5pcs-19293959",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896281",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711931",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710576",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713652",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710255",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710163",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712037",
+      "name": "Hotpack Disposable Wrapped Plastic Drinking Straws 6Mm 250 pcs",
+      "nameAr": "هوت باك مصاص بلاستيكية مغلفة للاستعمال مرة واحدة  6 ملم 250 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101712037_1.png",
+      "ninja": {
+        "price": 14.25,
+        "originalPrice": 14.25,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386205",
+        "url": "https://ananinja.com/sa/en/product/hotpack-disposable-wrapped-plastic-drinking-straws-6mm-250-pcs-19386205",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141889870",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711122",
+      "name": "Hotpack Plastic Round Plate  25Pcs",
+      "nameAr": "هوت باك  طبق بلاستيك دائري 7 بوصة  25 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711122_1.png",
+      "ninja": {
+        "price": 18.65,
+        "originalPrice": 18.65,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293948",
+        "url": "https://ananinja.com/sa/en/product/hotpack-plastic-round-plate-25pcs-19293948",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714369",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141881195",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896274",
+      "name": "Hotpack  10 Pieces Heavy Duty Paper Cup White With Black Lid 12 Ounce ",
+      "nameAr": "هوت باك  10 قطع من الأكواب الورقية شديدة التحمل باللون الأبيض مع غطاء أسود 12 أونصة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/5056141896274_1.png",
+      "ninja": {
+        "price": 19.95,
+        "originalPrice": 19.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293930",
+        "url": "https://ananinja.com/sa/en/product/hotpack-10-pieces-heavy-duty-paper-cup-white-with-black-lid-12-ounce-19293930",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141881201",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710149",
+      "name": "Hotpack Aluminum Round Container 10Pcs 800ml",
+      "nameAr": "هوت باك حاوية ألومنيوم دائرية  10 قطع 800 ملي",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/B90and91/6291101710149_1.png",
+      "ninja": {
+        "price": 18.65,
+        "originalPrice": 18.65,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293932",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminum-round-container-10pcs-800ml-19293932",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710781",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141852423",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141850689",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713362",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713553",
+      "name": "Hotpack Disposable Plastic Strong & BioDegradable Dust Bin Liner Bag Roll White 5 Gallon 45x55cm Small Size 50 pcs",
+      "nameAr": "هوت باك أكياس سلة مهملات قوية وقابلة للتحلل رول أبيض 5 جالون 45×55 سم حجم صغير 50 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101713553_1.png",
+      "ninja": {
+        "price": 17.95,
+        "originalPrice": 17.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386192",
+        "url": "https://ananinja.com/sa/en/product/hotpack-disposable-plastic-strong-biodegradable-dust-bin-liner-bag-roll-white-5-gallon-45x55cm-small-size-50-pcs-19386192",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710880",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141856230",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141882550",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141891576",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711832",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711368",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710187",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711115",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711047",
+      "name": "Hotpack Aluminium Foil Embossed  37.5 Sqft",
+      "nameAr": "هوت باك رقائق المونيوم 37.5 قدم مربع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711047_1.png",
+      "ninja": {
+        "price": 21.95,
+        "originalPrice": 21.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293939",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-foil-embossed-37-5-sqft-19293939",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710194",
+      "name": "Hotpack Garbage Bag 105X130 cm Regular Economy 70 Gallon 10 pcs",
+      "nameAr": "هوت باك أكياس قمامة 105×130 سم اقتصادي عادي 70 جالون 10 قطع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/6291101710194.jpg",
+      "ninja": {
+        "price": 16.45,
+        "originalPrice": 16.45,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386202",
+        "url": "https://ananinja.com/sa/en/product/hotpack-garbage-bag-105x130-cm-regular-economy-70-gallon-10-pcs-19386202",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896434",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141892801",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712457",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712976",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713768",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896328",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711351",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714048",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141891927",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101717490",
+      "name": "Hotpack Paper Heavy Duty Cup 50 Pieces 8 Ounce ",
+      "nameAr": "هوت باك اكواب ورق عالي التحمل 50 قطعة 8 اونصة",
+      "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/f66762ce-1587-4da4-b072-861ad928372f",
+      "ninja": {
+        "price": 24.95,
+        "originalPrice": 24.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293955",
+        "url": "https://ananinja.com/sa/en/product/hotpack-paper-heavy-duty-cup-50-pieces-8-ounce-19293955",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711627",
+      "name": "Hotpack Food Wrap Cling Film 300Sqft",
+      "nameAr": "هوت باك غلاف حفظ  طعام رول 300 قدم مربع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711627_1.png",
+      "ninja": {
+        "price": 24.95,
+        "originalPrice": 24.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293960",
+        "url": "https://ananinja.com/sa/en/product/hotpack-food-wrap-cling-film-300sqft-19293960",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713775",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715076",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711092",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713515",
+      "name": "Hotpack Large Heavy Duty Black Garbage Bags 80 x 110 cm 55 Gallons 15 pcs",
+      "nameAr": "هوت باك أكياس قمامة سوداء كبيرة وقوية 80×110 سم 55 جالون 15 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101713515_1.png",
+      "ninja": {
+        "price": 20.85,
+        "originalPrice": 20.85,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386196",
+        "url": "https://ananinja.com/sa/en/product/hotpack-large-heavy-duty-black-garbage-bags-80-x-110-cm-55-gallons-15-pcs-19386196",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857732",
+      "name": "Hotpack HD Microwave Container 750ml with Colour Lid 10 Pcs 5 Pcs * 2 Twin Pack",
+      "nameAr": "هوت باك حاوية ميكروويف 750 مل مع غطاء ملون 10 قطع 5 قطع * 2 عبوة مزدوجة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141857732_1.png",
+      "ninja": {
+        "price": 17.5,
+        "originalPrice": 17.5,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370102",
+        "url": "https://ananinja.com/sa/en/product/hotpack-hd-microwave-container-750ml-with-colour-lid-10-pcs-5-pcs-2-twin-pack-19370102",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711108",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855219",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710033",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141853765",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715205",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713669",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710750",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855233",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713508",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141850849",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141893556",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716547",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855226",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710521",
+      "name": "Hotpack Table Sheets 100x100 cm 6 Rolls",
+      "nameAr": "هوت باك مفارش طاولة 100×100 سم 6 رول",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/6291101710521.jpg",
+      "ninja": {
+        "price": 12.95,
+        "originalPrice": 19.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386217",
+        "url": "https://ananinja.com/sa/en/product/hotpack-table-sheets-100x100-cm-6-rolls-19386217",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712464",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716561",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713560",
+      "name": "Hotpack Heavy Duty Drawstring Garbage Bags 30 Gallon 60*90cm 20 Pcs",
+      "nameAr": "هوت باك  أكياس نفايات برباط شديد التحمل 30 جالون 60 * 90 سم 20 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101713560_1.png",
+      "ninja": {
+        "price": 21.95,
+        "originalPrice": 21.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370111",
+        "url": "https://ananinja.com/sa/en/product/hotpack-heavy-duty-drawstring-garbage-bags-30-gallon-60-90cm-20-pcs-19370111",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141853093",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141882222",
+      "name": "Hotpack Kraft Paper Cups 8 Oz 10 Pcs",
+      "nameAr": "هوت باك  أكواب ورقية كرافت 8 أونصة 10 قطع",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141882222.jpg",
+      "ninja": {
+        "price": 12.95,
+        "originalPrice": 12.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370132",
+        "url": "https://ananinja.com/sa/en/product/hotpack-kraft-paper-cups-8-oz-10-pcs-19370132",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101710309",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716523",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855516",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141854700",
+      "name": "Marjaan Facial Tissue 2 Ply * 130 Pulls 5 Bo*es + 1 Bo* Free",
+      "nameAr": "مرجان  مناديل  للوجه طبقتين * 130 سحبة 5 صناديق + صندوق واحد مجاناً",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141854700_1.png",
+      "ninja": {
+        "price": 24.95,
+        "originalPrice": 24.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370089",
+        "url": "https://ananinja.com/sa/en/product/marjaan-facial-tissue-2-ply-130-pulls-5-bo-es-1-bo-free-19370089",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141897523",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141851259",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141882420",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141854724",
+      "name": "Marjaan Facial Tissue 170 Pulls * 2 Ply 4 Bo*es + 1 Bo* Free",
+      "nameAr": "مرجان  مناديل للوجه 170 منديل × طبقتين 4 صناديق + صندوق واحد مجاناً",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141854724_1.png",
+      "ninja": {
+        "price": 25.95,
+        "originalPrice": 25.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370115",
+        "url": "https://ananinja.com/sa/en/product/marjaan-facial-tissue-170-pulls-2-ply-4-bo-es-1-bo-free-19370115",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141854120",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141890968",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141899978",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716530",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141852690",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141850825",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141891934",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714123",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141881935",
+      "name": "Hotpack Dustbin Liners White Roll 45*55cm 5 Gallon 200 Pcs 50 Pcs * 4 Rolls",
+      "nameAr": "هوت باك أكياس قمامه  لفة بيضاء 45 * 55 سم 5 جالون 200 قطعة 50 قطعة * 4 بكرات",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141881935_1.png",
+      "ninja": {
+        "price": 37.35,
+        "originalPrice": 37.35,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370107",
+        "url": "https://ananinja.com/sa/en/product/hotpack-dustbin-liners-white-roll-45-55cm-5-gallon-200-pcs-50-pcs-4-rolls-19370107",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712334",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857282",
+      "name": "Hotpack Table Cover Sheet 100*100 cm",
+      "nameAr": "هوت سفرة باك رول   100*100 سم",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141857282_1.png",
+      "ninja": {
+        "price": 38.95,
+        "originalPrice": 38.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370098",
+        "url": "https://ananinja.com/sa/en/product/hotpack-table-cover-sheet-100-100-cm-19370098",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141893716",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141897547",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714444",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711160",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141882123",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141881928",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716516",
+      "name": "Soft n Cool Tissue 2 Ply 200 Pulls 5 Pcs + 1 Free Offer Pack",
+      "nameAr": "سوفت و كول  مناديل   200 سحبة 5 قطع + 1 مجانًا عبوة العرض",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101716516_1.png",
+      "ninja": {
+        "price": 22.95,
+        "originalPrice": 31.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370131",
+        "url": "https://ananinja.com/sa/en/product/soft-n-cool-tissue-2-ply-200-pulls-5-pcs-1-free-offer-pack-19370131",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714116",
+      "name": "Hotpack Flat Garbage Bags 60 Gallon 95*120cm 30 Bags Buy 2 Get 1 Free",
+      "nameAr": "هوت باك  أكياس نفايات مسطحة 60 جالون 95*120 سم 30 كيس اشتري 2 واحصل على 1 مجانًا",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/6291101714116.jpg",
+      "ninja": {
+        "price": 43.5,
+        "originalPrice": 43.5,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370113",
+        "url": "https://ananinja.com/sa/en/product/hotpack-flat-garbage-bags-60-gallon-95-120cm-30-bags-buy-2-get-1-free-19370113",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896458",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713676",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711337",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141897561",
+      "name": "Hotpack Twin Pack Garbage Roll 60 Gallon 95*120cm 24 Bags 25% Offer",
+      "nameAr": "هوت باك أكياس قمامة عبوة مزدوجة من رول  60 جالون 95 * 120 سم 24 كيس عرض 25%",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141897561_1.png",
+      "ninja": {
+        "price": 45.95,
+        "originalPrice": 45.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370116",
+        "url": "https://ananinja.com/sa/en/product/hotpack-twin-pack-garbage-roll-60-gallon-95-120cm-24-bags-25-offer-19370116",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714451",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101714161",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715519",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141850764",
+      "name": "Hotpack Aluminium Foil 200 Sqft Twin Pack",
+      "nameAr": "هوت باك  رقائق ألومنيوم 200 قدم مربع عبوة مزدوجة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141850764_1.png",
+      "ninja": {
+        "price": 47.95,
+        "originalPrice": 62.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370110",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-foil-200-sqft-twin-pack-19370110",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141850788",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141888095",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855134",
+      "name": "Hotpack Aluminium POP-UP Foil 12*10 3/4 200 Sheets",
+      "nameAr": "هوت باك  رقائق الألومنيوم المنبثقة 12*10 سم  200 ورقة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141855134_1.png",
+      "ninja": {
+        "price": 91.95,
+        "originalPrice": 91.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370128",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-pop-up-foil-12-10-3-4-200-sheets-19370128",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141855110",
+      "name": "Hotpack Aluminium POP-UP Foil 12*10 3/4 500 Sheets",
+      "nameAr": "هوت باك  رقائق الألومنيوم المنبثقة  12 × 10 سم  500 ورقة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/5056141855110_1.png",
+      "ninja": {
+        "price": 153.95,
+        "originalPrice": 153.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19370112",
+        "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-pop-up-foil-12-10-3-4-500-sheets-19370112",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141851266",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141852751",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141853918",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141853925",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141856087",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857336",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857664",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857725",
+      "name": "Hotpack HD Microwave Container Color LID 1000+ 500ml 10 Pcs",
+      "nameAr": "هوت باك حاوية ميكروويف شديدة التحمل بغطاء ملون 1000 + 500 مل  5 قطع × 2 مجموعه",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/5056141857725___PY1.jpg",
+      "ninja": {
+        "price": 10.95,
+        "originalPrice": 15.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19394579",
+        "url": "https://ananinja.com/sa/en/product/hotpack-hd-microwave-container-color-lid-1000-500ml-10-pcs-19394579",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857749",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857770",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857787",
+      "name": "Hotpack  Paper Cups Ramadan Design 4 Oz 150 Pcs* 3 Packs",
+      "nameAr": "هوت باك أكواب ورقية بتصميم رمضان 4 أونصة 150 قطعة * 3 مجموعات",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/5056141857787___PY1.jpg",
+      "ninja": {
+        "price": 11.95,
+        "originalPrice": 17.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19394580",
+        "url": "https://ananinja.com/sa/en/product/hotpack-paper-cups-ramadan-design-4-oz-150-pcs-3-packs-19394580",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141857817",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141882345",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141890371",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141892023",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141893136",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141896304",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "5056141897554",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711436",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712082",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101712112",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713782",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715236",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715656",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101715670",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101716578",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-22T17:39:06.345Z"
       },
       "amazon": {
         "price": null,
