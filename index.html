@@ -3,68 +3,209 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KSA Product Pricing Tracker</title>
+  <title>KSA Pricing Tracker</title>
   <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <div class="header-content">
-        <h1>KSA Product Pricing Tracker</h1>
-        <p class="subtitle">Track product prices across Ninja, Amazon, Keeta &amp; HungerStation</p>
-      </div>
-      <div class="header-meta">
-        <span id="lastUpdated" class="meta-badge">Last updated: --</span>
-        <span id="productCount" class="meta-badge">0 products</span>
-      </div>
-    </header>
-
-    <section class="controls">
-      <div class="barcode-input">
-        <label for="newBarcode">Add Barcode (EAN)</label>
-        <div class="input-row">
-          <input type="text" id="newBarcode" placeholder="e.g. 6291101711597" pattern="[0-9]{8,14}" maxlength="14">
-          <button id="addBtn" onclick="addBarcode()">Add</button>
+  <!-- Top Nav -->
+  <nav class="topnav">
+    <div class="nav-inner">
+      <div class="nav-brand">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 3h18v18H3z"/><path d="M3 9h18"/><path d="M9 21V9"/></svg>
+        <span>KSA Pricing Tracker</span>
+        <div class="nav-platforms">
+          <img src="https://www.google.com/s2/favicons?domain=ananinja.com&sz=16" alt="Ninja" title="Ninja">
+          <img src="https://www.google.com/s2/favicons?domain=amazon.sa&sz=16" alt="Amazon" title="Amazon.sa">
+          <img src="https://www.google.com/s2/favicons?domain=hungerstation.com&sz=16" alt="HungerStation" title="HungerStation">
         </div>
       </div>
-      <div class="actions">
-        <button class="btn-secondary" onclick="exportCSV()">Export CSV</button>
-        <button class="btn-secondary" onclick="loadData()">Refresh Data</button>
+      <div class="nav-actions">
+        <button class="nav-btn" onclick="openSettings()" title="GitHub Settings" id="settingsBtn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+        </button>
+        <button class="nav-btn" onclick="loadData()" title="Refresh data">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 2v6h-6"/><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M3 22v-6h6"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/></svg>
+          Refresh
+        </button>
+        <button class="nav-btn primary" onclick="exportCSV()">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          Export CSV
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <!-- Stats Cards -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-icon blue">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 10h20"/></svg>
+        </div>
+        <div class="stat-info">
+          <span class="stat-value" id="statTotal">0</span>
+          <span class="stat-label">Products Tracked</span>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon green">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        </div>
+        <div class="stat-info">
+          <span class="stat-value" id="statAvgPrice">--</span>
+          <span class="stat-label">Avg Price (SAR)</span>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon orange">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        </div>
+        <div class="stat-info">
+          <span class="stat-value" id="statCheapest">--</span>
+          <span class="stat-label">Cheapest Platform</span>
+        </div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-icon purple">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <div class="stat-info">
+          <span class="stat-value" id="statUpdated">--</span>
+          <span class="stat-label">Last Updated</span>
+        </div>
       </div>
     </section>
 
-    <section class="table-wrapper">
-      <table id="priceTable">
-        <thead>
-          <tr>
-            <th class="col-barcode">Barcode (EAN)</th>
-            <th class="col-name">Product Name</th>
-            <th class="col-price">Ninja Price (SAR)</th>
-            <th class="col-price">Amazon Price (SAR)</th>
-            <th class="col-price">Keeta Price (SAR)</th>
-            <th class="col-price">HungerStation Price (SAR)</th>
-            <th class="col-actions">Actions</th>
-          </tr>
-        </thead>
-        <tbody id="priceTableBody">
-          <tr class="empty-row">
-            <td colspan="7">Loading pricing data...</td>
-          </tr>
-        </tbody>
-      </table>
+    <!-- Charts Row -->
+    <section class="charts-row">
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Platform Coverage</h3>
+          <span class="chart-subtitle">Products found per platform</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="coverageChart"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Price Comparison</h3>
+          <span class="chart-subtitle">Average price by platform</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="avgPriceChart"></canvas>
+        </div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3>Best Price Distribution</h3>
+          <span class="chart-subtitle">Which platform offers the lowest price</span>
+        </div>
+        <div class="chart-body">
+          <canvas id="bestPriceChart"></canvas>
+        </div>
+      </div>
     </section>
 
-    <section class="tracked-barcodes">
-      <h3>Tracked Barcodes</h3>
+    <!-- Controls Bar -->
+    <section class="controls-bar">
+      <div class="search-box">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="searchInput" placeholder="Search by barcode or product name..." oninput="filterTable()">
+      </div>
+      <div class="control-group">
+        <select id="filterPlatform" onchange="filterTable()">
+          <option value="all">All Products</option>
+          <option value="has-all">Available on All 3</option>
+          <option value="ninja-only">Ninja Only</option>
+          <option value="amazon-only">Amazon Only</option>
+          <option value="hs-only">HungerStation Only</option>
+          <option value="cheapest-ninja">Cheapest on Ninja</option>
+          <option value="cheapest-amazon">Cheapest on Amazon</option>
+          <option value="cheapest-hs">Cheapest on HungerStation</option>
+        </select>
+        <div class="barcode-add">
+          <input type="text" id="newBarcode" placeholder="Add barcode (EAN)" pattern="[0-9]{8,14}" maxlength="14">
+          <button class="btn-add" onclick="addBarcode()">+ Add</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Price Table -->
+    <section class="table-card">
+      <div class="table-scroll">
+        <table id="priceTable">
+          <thead>
+            <tr>
+              <th class="col-barcode" onclick="sortTable('barcode')">Barcode <span class="sort-icon"></span></th>
+              <th class="col-name" onclick="sortTable('name')">Product Name <span class="sort-icon"></span></th>
+              <th class="col-price" onclick="sortTable('ninja')"><img src="https://www.google.com/s2/favicons?domain=ananinja.com&sz=16" alt="" class="th-logo">Ninja (SAR) <span class="sort-icon"></span></th>
+              <th class="col-price" onclick="sortTable('amazon')"><img src="https://www.google.com/s2/favicons?domain=amazon.sa&sz=16" alt="" class="th-logo">Amazon (SAR) <span class="sort-icon"></span></th>
+              <th class="col-price" onclick="sortTable('hungerstation')"><img src="https://www.google.com/s2/favicons?domain=hungerstation.com&sz=16" alt="" class="th-logo">HungerStation (SAR) <span class="sort-icon"></span></th>
+              <th class="col-best">Best Price</th>
+              <th class="col-actions">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="priceTableBody">
+            <tr class="empty-row"><td colspan="7">Loading pricing data...</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="table-footer">
+        <span id="tableInfo" class="table-info">Showing 0 products</span>
+        <div class="pagination" id="pagination"></div>
+      </div>
+    </section>
+
+    <!-- Tracked Barcodes -->
+    <section class="barcodes-card">
+      <div class="card-header">
+        <h3>Tracked Barcodes</h3>
+        <span class="badge" id="barcodeCount">0</span>
+      </div>
       <div id="barcodeChips" class="chip-container"></div>
+      <div id="newBarcodesHelper" class="new-barcodes-helper" style="display:none">
+        <div class="helper-alert">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+          <span><strong class="new-count">0</strong> barcode(s) added locally but not yet in the scraper. Copy them and add to <code>data/barcodes.json</code> in your GitHub repo so the daily scraper picks them up.</span>
+          <button id="copyNewBtn" class="btn-copy" onclick="copyNewBarcodes()">Copy to Clipboard</button>
+        </div>
+      </div>
       <p class="help-text">
-        To update the tracked barcodes for the daily scraper, edit
-        <code>data/barcodes.json</code> in your repository.
+        To update tracked barcodes for the daily scraper, edit <code>data/barcodes.json</code> in your GitHub repository.
       </p>
     </section>
 
+    <!-- GitHub Settings Modal -->
+    <div id="settingsModal" class="modal-overlay" style="display:none">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>GitHub Settings</h3>
+          <button class="modal-close" onclick="closeSettings()">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-desc">Connect to your GitHub repo so barcodes are automatically synced when you add or remove them.</p>
+          <label class="form-label">GitHub Username
+            <input type="text" id="ghUser" placeholder="e.g. johndoe">
+          </label>
+          <label class="form-label">Repository Name
+            <input type="text" id="ghRepo" placeholder="e.g. pricing-tracker">
+          </label>
+          <label class="form-label">Personal Access Token
+            <input type="password" id="ghToken" placeholder="ghp_xxxxxxxxxxxx">
+            <span class="form-hint">Needs <strong>repo</strong> scope. <a href="https://github.com/settings/tokens/new?scopes=repo&description=Pricing+Tracker" target="_blank" rel="noopener">Create one here</a></span>
+          </label>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary" onclick="closeSettings()">Cancel</button>
+          <button class="btn-add" onclick="saveSettings()">Save Settings</button>
+        </div>
+      </div>
+    </div>
+
     <footer>
-      <p>Prices are scraped once daily via GitHub Actions. Data may not reflect real-time pricing.</p>
+      <p>Prices scraped daily at 9:00 AM KSA via GitHub Actions. Data may not reflect real-time pricing.</p>
     </footer>
   </div>
 
