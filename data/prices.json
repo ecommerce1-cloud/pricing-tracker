@@ -1,0 +1,101 @@
+{
+  "lastUpdated": "2026-05-21T20:03:28.168Z",
+  "products": [
+    {
+      "barcode": "6291101711597",
+      "ninja": {
+        "price": 4.95,
+        "originalPrice": 4.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19386228",
+        "url": "https://ananinja.com/sa/en/product/hotpack-disposable-gloves-100-pcs-19386228",
+        "lastChecked": "2026-05-21T19:48:07.478Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      },
+      "name": "Hotpack Disposable Gloves 100 pcs",
+      "nameAr": "هوت باك قفازات للاستعمال مرة واحدة 100 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/sa_creations/supplier/6291101711597.jpg"
+    },
+    {
+      "barcode": "6291101712839",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-21T19:48:07.478Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101713065",
+      "ninja": {
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-05-21T19:48:07.478Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    },
+    {
+      "barcode": "6291101711948",
+      "name": "Hotpack Zipper Lock Bag 12*25Cm  50Pcs",
+      "nameAr": "هوت باك اكياس تخزين الطعام  12*25 سم 50 قطعة",
+      "imageUrl": "https://img.ananinja.com/media/ninja-catalog-42/Banmaly/6291101711948_2.png",
+      "ninja": {
+        "price": 6.95,
+        "originalPrice": 15.95,
+        "discountedPrice": null,
+        "isAvailable": true,
+        "productId": "19293963",
+        "url": "https://ananinja.com/sa/en/product/hotpack-zipper-lock-bag-12-25cm-50pcs-19293963",
+        "lastChecked": "2026-05-21T20:03:28.168Z"
+      },
+      "amazon": {
+        "price": null,
+        "lastChecked": null
+      },
+      "keeta": {
+        "price": null,
+        "lastChecked": null
+      },
+      "hungerStation": {
+        "price": null,
+        "lastChecked": null
+      }
+    }
+  ]
+}

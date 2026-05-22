@@ -1,0 +1,327 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #fff;
+  color: #1a1a1a;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+header {
+  margin-bottom: 36px;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #111;
+  margin-bottom: 2px;
+}
+
+.subtitle {
+  color: #666;
+  font-size: 14px;
+}
+
+.header-meta {
+  display: flex;
+  gap: 16px;
+  margin-top: 12px;
+}
+
+.meta-badge {
+  color: #888;
+  font-size: 13px;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.barcode-input label {
+  display: block;
+  font-size: 13px;
+  color: #555;
+  margin-bottom: 4px;
+}
+
+.input-row {
+  display: flex;
+  gap: 6px;
+}
+
+.input-row input {
+  background: #fff;
+  border: 1px solid #d0d0d0;
+  color: #1a1a1a;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  width: 240px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.input-row input:focus {
+  border-color: #4a90d9;
+}
+
+.input-row input::placeholder {
+  color: #aaa;
+}
+
+button, .btn-secondary {
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: background 0.15s;
+}
+
+#addBtn {
+  background: #2c6ecf;
+  color: #fff;
+}
+
+#addBtn:hover {
+  background: #1f5bb5;
+}
+
+.btn-secondary {
+  background: #fff;
+  color: #333;
+  border: 1px solid #d0d0d0;
+}
+
+.btn-secondary:hover {
+  background: #f5f5f5;
+}
+
+.actions {
+  display: flex;
+  gap: 6px;
+}
+
+.table-wrapper {
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  overflow-x: auto;
+  margin-bottom: 32px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background: #f8f8f8;
+  color: #555;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 10px 14px;
+  text-align: left;
+  white-space: nowrap;
+  border-bottom: 1px solid #e2e2e2;
+}
+
+tbody td {
+  padding: 12px 14px;
+  font-size: 14px;
+  border-bottom: 1px solid #f0f0f0;
+  vertical-align: middle;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: #fafbfc;
+}
+
+.col-barcode {
+  min-width: 140px;
+}
+
+.col-name {
+  min-width: 200px;
+}
+
+.col-price {
+  min-width: 130px;
+  text-align: right;
+}
+
+.col-actions {
+  min-width: 70px;
+  text-align: center;
+}
+
+td.price-cell {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.price-value {
+  font-weight: 600;
+  color: #1a7f37;
+  text-decoration: none;
+}
+
+.price-value:hover {
+  text-decoration: underline;
+}
+
+.price-unavailable {
+  color: #999;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.price-pending {
+  color: #b0b0b0;
+}
+
+.barcode-text {
+  font-family: 'SF Mono', 'Consolas', 'Menlo', monospace;
+  font-size: 13px;
+  color: #333;
+}
+
+.product-name {
+  color: #1a1a1a;
+}
+
+.product-name-unknown {
+  color: #999;
+  font-style: italic;
+}
+
+.btn-remove {
+  background: transparent;
+  color: #c0392b;
+  border: 1px solid #e0c8c5;
+  padding: 3px 10px;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+.btn-remove:hover {
+  background: #fdf0ee;
+}
+
+.empty-row td {
+  text-align: center;
+  color: #999;
+  padding: 32px 14px;
+  font-size: 14px;
+}
+
+.tracked-barcodes {
+  margin-bottom: 32px;
+}
+
+.tracked-barcodes h3 {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.chip-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.chip {
+  background: #f4f4f4;
+  border: 1px solid #e0e0e0;
+  color: #555;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  font-family: monospace;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.chip .remove {
+  cursor: pointer;
+  color: #c0392b;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 1;
+}
+
+.chip .remove:hover {
+  color: #e74c3c;
+}
+
+.help-text {
+  color: #999;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.help-text code {
+  background: #f4f4f4;
+  color: #555;
+  padding: 1px 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+footer {
+  text-align: center;
+  color: #bbb;
+  font-size: 12px;
+  padding-top: 20px;
+  border-top: 1px solid #f0f0f0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 20px 16px;
+  }
+
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .input-row input {
+    width: 100%;
+    flex: 1;
+  }
+
+  .actions {
+    justify-content: stretch;
+  }
+
+  .actions button {
+    flex: 1;
+  }
+}

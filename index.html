@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KSA Product Pricing Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-content">
+        <h1>KSA Product Pricing Tracker</h1>
+        <p class="subtitle">Track product prices across Ninja, Amazon, Keeta &amp; HungerStation</p>
+      </div>
+      <div class="header-meta">
+        <span id="lastUpdated" class="meta-badge">Last updated: --</span>
+        <span id="productCount" class="meta-badge">0 products</span>
+      </div>
+    </header>
+
+    <section class="controls">
+      <div class="barcode-input">
+        <label for="newBarcode">Add Barcode (EAN)</label>
+        <div class="input-row">
+          <input type="text" id="newBarcode" placeholder="e.g. 6291101711597" pattern="[0-9]{8,14}" maxlength="14">
+          <button id="addBtn" onclick="addBarcode()">Add</button>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn-secondary" onclick="exportCSV()">Export CSV</button>
+        <button class="btn-secondary" onclick="loadData()">Refresh Data</button>
+      </div>
+    </section>
+
+    <section class="table-wrapper">
+      <table id="priceTable">
+        <thead>
+          <tr>
+            <th class="col-barcode">Barcode (EAN)</th>
+            <th class="col-name">Product Name</th>
+            <th class="col-price">Ninja Price (SAR)</th>
+            <th class="col-price">Amazon Price (SAR)</th>
+            <th class="col-price">Keeta Price (SAR)</th>
+            <th class="col-price">HungerStation Price (SAR)</th>
+            <th class="col-actions">Actions</th>
+          </tr>
+        </thead>
+        <tbody id="priceTableBody">
+          <tr class="empty-row">
+            <td colspan="7">Loading pricing data...</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="tracked-barcodes">
+      <h3>Tracked Barcodes</h3>
+      <div id="barcodeChips" class="chip-container"></div>
+      <p class="help-text">
+        To update the tracked barcodes for the daily scraper, edit
+        <code>data/barcodes.json</code> in your repository.
+      </p>
+    </section>
+
+    <footer>
+      <p>Prices are scraped once daily via GitHub Actions. Data may not reflect real-time pricing.</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

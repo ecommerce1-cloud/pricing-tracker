@@ -1,0 +1,12 @@
+{
+  "name": "pricing-tracker",
+  "version": "1.0.0",
+  "description": "Product pricing tracker for KSA e-commerce platforms",
+  "scripts": {
+    "scrape": "node scraper/index.js",
+    "scrape:ninja": "node scraper/index.js --platform ninja"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
