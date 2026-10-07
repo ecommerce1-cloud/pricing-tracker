@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T13:02:43.802Z",
+  "lastUpdated": "2026-10-07T12:55:11.830Z",
   "products": [
     {
       "barcode": "6291101711597",
@@ -7,28 +7,27 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 2.25,
-        "asin": "B07NF6VDW7",
-        "url": "https://www.amazon.sa/dp/B07NF6VDW7",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.57,
+        "price": 20.72,
         "originalPrice": 28.75,
         "sku": "15HOK6",
         "hsId": "0af50581-68ea-4327-aaba-461aadfc4426",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
-        "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "matchScore": 100,
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Gloves 100 pcs",
       "nameAr": "هوت باك قفازات للاستعمال مرة واحدة 100 قطعة",
@@ -88,28 +87,28 @@
         "isAvailable": true,
         "productId": "19293963",
         "url": "https://ananinja.com/sa/en/product/hotpack-zipper-lock-bag-12-25cm-50pcs-19293963",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.5,
         "asin": "B07PBKW623",
         "url": "https://www.amazon.sa/dp/B07PBKW623",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 13.04,
+        "price": 13.65,
         "originalPrice": 15.5,
         "sku": "UU379S",
         "hsId": "32514568-948a-4ccf-b2ed-8406fcb670f6",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -124,14 +123,13 @@
         "isAvailable": true,
         "productId": "19386218",
         "url": "https://ananinja.com/sa/en/product/hotpack-bamboo-skewer-6-inches-100-pcs-19386218",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 1.08,
-        "asin": "B07NDLXM8P",
-        "url": "https://www.amazon.sa/dp/B07NDLXM8P",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -141,7 +139,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (40%)",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -150,14 +148,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 2.54,
-        "asin": "B07P67NT81",
-        "url": "https://www.amazon.sa/dp/B07P67NT81",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -167,7 +164,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Vinyl Disposable Examination Gloves Large 100 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Plastic Tea Spoon , White- 50Pcs"
     },
@@ -183,14 +180,13 @@
         "isAvailable": true,
         "productId": "19293934",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-spoon-50-pcs-19293934",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 3.75,
-        "asin": "B07NF8411S",
-        "url": "https://www.amazon.sa/dp/B07NF8411S",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -200,7 +196,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -209,14 +205,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 2.62,
-        "asin": "B07P75RM54",
-        "url": "https://www.amazon.sa/dp/B07P75RM54",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -226,7 +221,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Plastic Knife 50Pcs Pk Hotpack"
     },
@@ -236,14 +231,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
-        "price": 3,
-        "asin": "B009CBG0KW",
-        "url": "https://www.amazon.sa/dp/B009CBG0KW",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Amazon.sa",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -253,7 +247,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.801Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Paper Tissue Napkin - 30 x 30 cm - 80-piece, White"
     },
@@ -269,14 +263,14 @@
         "isAvailable": true,
         "productId": "19293956",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-fork-50-pcs-19293956",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 3.48,
         "asin": "B07NF7QVZ5",
         "url": "https://www.amazon.sa/dp/B07NF7QVZ5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -286,7 +280,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -298,14 +292,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 3.26,
         "asin": "B08JZ19WDB",
         "url": "https://www.amazon.sa/dp/B08JZ19WDB",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -315,7 +309,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Perforated Table Sheets Value Pack 12x100x100cm\" too weak (23%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -324,14 +318,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 3.97,
         "asin": "B07PP13VQ2",
         "url": "https://www.amazon.sa/dp/B07PP13VQ2",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -341,7 +335,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Brown Air Fryer Liners 100 Pieces\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Soft N Cool Brown Paper Dinner Napkin 33X33 cm, 50 Pieces",
       "nameAr": "هوت باك مناديل ورقية بنية للعشاء سوفت إن كول 33×33 سم 50 قطعة",
@@ -353,14 +347,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 4.65,
         "asin": "B08DN89V2B",
         "url": "https://www.amazon.sa/dp/B08DN89V2B",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -370,7 +364,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Paper Cup 6 Oz, 50 Pieces",
       "nameAr": "هوت باك أكواب ورقية 6 أونصة 50 قطعة 177 مل",
@@ -379,34 +373,31 @@
     {
       "barcode": "6291101710439",
       "ninja": {
-        "price": 6.95,
-        "originalPrice": 6.95,
-        "discountedPrice": null,
-        "isAvailable": true,
-        "productId": "19386203",
-        "url": "https://ananinja.com/sa/en/product/hotpack-disposable-microwave-plastic-container-with-lids-250cc-pack-of-5-19386203",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 5.06,
         "asin": "B07G8H6Y7Z",
         "url": "https://www.amazon.sa/dp/B07G8H6Y7Z",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 63,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Microwave Plastic Container With Lids, 250Cc, Pack of 5",
       "nameAr": "هوت باك حاويات بلاستيكية للمايكروويف مع أغطية 250 مل علبة من 5 قطع",
@@ -418,14 +409,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 19.95,
         "asin": "B07P8B2LW2",
         "url": "https://www.amazon.sa/dp/B07P8B2LW2",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -435,7 +426,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Vinyl Disposable Examination Gloves Large 100 Pieces\" too weak (20%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Extra Long Disposable Flexible Plastic Drinking Straws, 6MM, 250 Pcs",
       "nameAr": "هوت باك مصاص مرن 6 ملي 250 قطعة",
@@ -453,28 +444,28 @@
         "isAvailable": true,
         "productId": "19293967",
         "url": "https://ananinja.com/sa/en/product/hotpack-food-wrap-cling-film-100-sqft-19293967",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 6.46,
         "asin": "B07PP167FT",
         "url": "https://www.amazon.sa/dp/B07PP167FT",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 7.37,
+        "price": 7.72,
         "originalPrice": 8.75,
         "sku": "FOX52F",
         "hsId": "5cd7d6c5-4275-4427-ba54-8e680b1dee29",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -489,28 +480,28 @@
         "isAvailable": true,
         "productId": "19293971",
         "url": "https://ananinja.com/sa/en/product/hotpack-micro-wave-container-round-450-ml-5-pcs-19293971",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 5.14,
         "asin": "B07NF7ZX6Y",
         "url": "https://www.amazon.sa/dp/B07NF7ZX6Y",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -519,14 +510,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 12.15,
         "asin": "B07P75RKJJ",
         "url": "https://www.amazon.sa/dp/B07P75RKJJ",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -536,7 +527,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft N Cool Multi-Purpose Paper Towel 150 Sheets\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Soft n Cool Paper Napkin Cotton Feel 40 X 40Cm 25Pcs Sncn4040Cf"
     },
@@ -546,14 +537,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.02,
         "asin": "B0BT84KDT2",
         "url": "https://www.amazon.sa/dp/B0BT84KDT2",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -563,7 +554,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (11%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Season 2023 Design Single Wall Paper Cup 4 ounce, 50 Pieces",
       "nameAr": "هوت باك كوب ورقي بطبعة رمضان جدار واحد 4 أونصات 50 قطعة 118 مل",
@@ -575,28 +566,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 6.95,
         "asin": "B07P75RG2Z",
         "url": "https://www.amazon.sa/dp/B07P75RG2Z",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 13.04,
+        "price": 13.65,
         "originalPrice": 15.5,
         "sku": "UU379S",
         "hsId": "32514568-948a-4ccf-b2ed-8406fcb670f6",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 80,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Zipper Lock Bag 18 X 21Cm 20Pcs"
     },
@@ -609,28 +600,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.72,
         "asin": "B07NF633LN",
         "url": "https://www.amazon.sa/dp/B07NF633LN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
-        "originalPrice": 18.25,
-        "sku": "9Z4W83",
-        "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
+        "price": 15.5,
+        "originalPrice": 15.5,
+        "sku": "K108VS",
+        "hsId": "06f3a83c-1caa-4d75-85ce-5bbe12ca31ef",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
-        "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "matchScore": 71,
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -639,14 +630,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 4.35,
         "asin": "B07NF61PJY",
         "url": "https://www.amazon.sa/dp/B07NF61PJY",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -656,7 +647,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (40%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Food Storage Containers - 10 Pieces"
     },
@@ -666,14 +657,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.92,
         "asin": "B0BT7P7HK9",
         "url": "https://www.amazon.sa/dp/B0BT7P7HK9",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -683,7 +674,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty White Dustbin Liners 150 Bags\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Plastic Cups 6 ounces 2 +1 FREE, 150 Pieces",
       "nameAr": "هوت باك أكواب بلاستيكية سعة 6 أونصات 150 قطعة عرض 2+1 مجانًا",
@@ -701,28 +692,28 @@
         "isAvailable": true,
         "productId": "19293959",
         "url": "https://ananinja.com/sa/en/product/hotpack-microwave-container-rectangular-750ml-5pcs-19293959",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.82,
         "asin": "B07PBKWHJX",
         "url": "https://www.amazon.sa/dp/B07PBKWHJX",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -734,14 +725,14 @@
         "isAvailable": true,
         "productId": "19386201",
         "url": "https://ananinja.com/sa/en/product/hotpack-clear-plastic-cup-8-oz-25-pcs-237-ml-19386201",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.83,
         "asin": "B08JZ1WJ7V",
         "url": "https://www.amazon.sa/dp/B08JZ1WJ7V",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -751,7 +742,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Soft n Cool Hotpack - 25 PIECE PET CLEAR CUP 8 OUNCE",
       "nameAr": "هوت باك أكواب بلاستيكية شفافة 8 أونصات 25 قطعة 237 مل",
@@ -766,28 +757,28 @@
         "isAvailable": true,
         "productId": "19293952",
         "url": "https://ananinja.com/sa/en/product/hotpack-zipper-lock-bag-10-19cm-50pcs-19293952",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 8.36,
         "asin": "B07PN2P6JT",
         "url": "https://www.amazon.sa/dp/B07PN2P6JT",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 13.04,
+        "price": 13.65,
         "originalPrice": 15.5,
         "sku": "UU379S",
         "hsId": "32514568-948a-4ccf-b2ed-8406fcb670f6",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Zipper Lock Bag (10 x 19cm, 50 Pieces, ZLB1019)",
       "nameAr": " هوت باك اكياس قفل سحاب 10*19 سم 50 قطعة",
@@ -799,14 +790,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 8.65,
         "asin": "B087K16BZY",
         "url": "https://www.amazon.sa/dp/B087K16BZY",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -816,7 +807,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (17%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Coloured Plastic Plates 10 Inch Multicolor - 25 Pieces"
     },
@@ -829,28 +820,28 @@
         "isAvailable": true,
         "productId": "19293940",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-foil-embossed-25-sqft-19293940",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 8.9,
         "asin": "B087JXKFV3",
         "url": "https://www.amazon.sa/dp/B087JXKFV3",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 100,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Aluminium Foil, Embossed 25 Sqft, 1 Units",
       "nameAr": "هوت باك هوت باك ورق ألومنيوم  مزخرف  25 قدم مربع",
@@ -862,13 +853,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -878,7 +869,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack White foam plates 9\"- 25 Pcs (6291101710255)"
     },
@@ -891,14 +882,14 @@
         "isAvailable": true,
         "productId": "19293943",
         "url": "https://ananinja.com/sa/en/product/hotpack-garbage-bag-65-95cm-regular-economy-30gallon-20pcs-19293943",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 9.28,
         "asin": "B087KQFGS8",
         "url": "https://www.amazon.sa/dp/B087KQFGS8",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -908,7 +899,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Bags Twin Pack 60 Gallon 24 Bags\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Garbage Bag 65X95 cm, Regular Economy 30 Gallon, 20 Pieces",
       "nameAr": "هوت باك أكياس نفايات 65*95 سم إقتصادي عادي 30 جالون  20 قطعة",
@@ -920,20 +911,17 @@
       "nameAr": "هوت باك مصاص بلاستيكية مغلفة للاستعمال مرة واحدة  6 ملم 250 قطعة",
       "imageUrl": "https://img.ananinja.com/media/bra-public-files/services-admin/files/e768e998-57d7-42e1-aef2-247d2b5ba32c",
       "ninja": {
-        "price": 13.95,
-        "originalPrice": 13.95,
-        "discountedPrice": null,
-        "isAvailable": true,
-        "productId": "19386205",
-        "url": "https://ananinja.com/sa/en/product/hotpack-disposable-wrapped-plastic-drinking-straws-6mm-250-pcs-19386205",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "price": null,
+        "isAvailable": false,
+        "error": "Product not found on Ninja",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 7.12,
         "asin": "B07PQ5X9QL",
         "url": "https://www.amazon.sa/dp/B07PQ5X9QL",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -943,7 +931,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Vinyl Disposable Examination Gloves Large 100 Pieces\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -952,28 +940,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 8.6,
         "asin": "B0BT7PYK32",
         "url": "https://www.amazon.sa/dp/B0BT7PYK32",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Paper Juice Cup with Lid 15%"
     },
@@ -989,14 +977,14 @@
         "isAvailable": true,
         "productId": "19293948",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-round-plate-25-pcs-19293948",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 9.83,
         "asin": "B07NF5TK6Y",
         "url": "https://www.amazon.sa/dp/B07NF5TK6Y",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1006,7 +994,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1018,28 +1006,28 @@
         "isAvailable": true,
         "productId": "19386215",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-container-8389-8342-20pcs-19386215",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 10.11,
         "asin": "B092TDSDN3",
         "url": "https://www.amazon.sa/dp/B092TDSDN3",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 30.24,
+        "price": 31.74,
         "originalPrice": 37.75,
         "sku": "H66K8W",
         "hsId": "eec849ba-058e-4d1c-81d1-e8f17ed11e86",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Aluminium Container Combo Pack Set of 20 Pieces, 890 mlWith 420 ml- Pack of 1",
       "nameAr": "هوت باك حاويات ألمنيوم 8389+8342 20 قطعة",
@@ -1054,14 +1042,14 @@
         "isAvailable": true,
         "productId": "19386190",
         "url": "https://ananinja.com/sa/en/product/hotpack-eco-friendly-disposable-wooden-fork-50-pcs-50-units-19386190",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 10.49,
         "asin": "B09C58PMSG",
         "url": "https://www.amazon.sa/dp/B09C58PMSG",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1071,7 +1059,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Eco-Friendly Aluminium Pot with Hood 25cm 6 Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Eco Friendly Disposable Wooden Fork 50 Pieces ' 50 Units",
       "nameAr": "هوت باك شوك خشبية صديقة للبيئة للاستعمال مرة واحدة 50 قطعة",
@@ -1086,14 +1074,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 10.35,
         "asin": "B08JZ1PL4R",
         "url": "https://www.amazon.sa/dp/B08JZ1PL4R",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1103,7 +1091,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Microwave Containers with Lids Combo 10 Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1112,14 +1100,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 10.74,
         "asin": "B09C5991GW",
         "url": "https://www.amazon.sa/dp/B09C5991GW",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1129,7 +1117,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Eco-Friendly Aluminium Pot with Hood 25cm 6 Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Eco Friendly Disposable Wooden Spoon 50 Pieces ' 50 Units",
       "nameAr": "هوت باك ملاعق خشبية صديقة للبيئة للاستعمال مرة واحدة 50 قطعة",
@@ -1147,28 +1135,28 @@
         "isAvailable": true,
         "productId": "19293932",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminum-round-container-800-ml-10-pcs-19293932",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.42,
         "asin": "B087KLF2CT",
         "url": "https://www.amazon.sa/dp/B087KLF2CT",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 20.91,
+        "price": 22.01,
         "originalPrice": 27.5,
         "sku": "TZCBGR",
         "hsId": "21f971fb-367e-4f39-be65-f29ed9579c98",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1180,28 +1168,28 @@
         "isAvailable": true,
         "productId": "19293942",
         "url": "https://ananinja.com/sa/en/product/hotpack-garbage-bag-80-110cm-heavy-duty-55-gallon-10pcs-19293942",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.21,
         "asin": "B07PBKWX4W",
         "url": "https://www.amazon.sa/dp/B07PBKWX4W",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Heavy Duty Black Garbage Bags 80Cmx110Cm -10 Pcs",
       "nameAr": "هوت باك اكياس قمامة80*110سم شديدة التحمل 55 جالون 10حبات",
@@ -1216,27 +1204,27 @@
         "isAvailable": true,
         "productId": "19370130",
         "url": "https://ananinja.com/sa/en/product/hotpack-zipper-lock-bag-18-21cm-twinpack-20-bags-20-off-19370130",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 13.04,
+        "price": 13.65,
         "originalPrice": 15.5,
         "sku": "UU379S",
         "hsId": "32514568-948a-4ccf-b2ed-8406fcb670f6",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Zipper Lock Bags 18x21cm 40 Pieces",
       "nameAr": "هوت باك  حقيبة بقفل بسحاب  18 * 21 سم 20 كيس خصم 20%",
@@ -1248,28 +1236,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 10.81,
         "asin": "B0B6PL2JNS",
         "url": "https://www.amazon.sa/dp/B0B6PL2JNS",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 18.07,
+        "price": 18.93,
         "originalPrice": 21.5,
         "sku": "38CNPS",
         "hsId": "85ba4113-d936-43c9-bd9d-06af109589fd",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 86,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Microwavable Container with Lid Rectangular 500ml 8+2"
     },
@@ -1282,14 +1270,14 @@
         "isAvailable": true,
         "productId": "19293950",
         "url": "https://ananinja.com/sa/en/product/hotpack-white-plastic-bowl-400-cc-lid-25pcs-19293950",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.61,
         "asin": "B07PR964GV",
         "url": "https://www.amazon.sa/dp/B07PR964GV",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1299,7 +1287,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack White Plastic Bowl 400 cc and Lid 25 Pieces, 25 Units",
       "nameAr": "هوت باك وعاء بلاستيك أبيض 400 ملي + غطاء 25 قطعة",
@@ -1317,14 +1305,14 @@
         "isAvailable": true,
         "productId": "19386192",
         "url": "https://ananinja.com/sa/en/product/hotpack-disposable-plastic-strong-biodegradable-dust-bin-liner-bag-roll-white-5-gallon-45x55cm-small-size-50-pcs-19386192",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.43,
         "asin": "B087JZHKWK",
         "url": "https://www.amazon.sa/dp/B087JZHKWK",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1333,8 +1321,8 @@
       "hungerStation": {
         "price": null,
         "isAvailable": false,
-        "error": "Best match \"Hotpack Oxo-Biodegradable White Dustbin Liners 50 pcs\" too weak (42%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "error": "Best match \"Hotpack Small White Dustbin Liners 200Pieces\" too weak (42%)",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1343,14 +1331,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 5.35,
         "asin": "B07NF672SV",
         "url": "https://www.amazon.sa/dp/B07NF672SV",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1360,7 +1348,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (14%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Plastic Cups Crystal Clear Pet 8Oz- 50Pcs"
     },
@@ -1370,14 +1358,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.92,
         "asin": "B0D9P4YZY8",
         "url": "https://www.amazon.sa/dp/B0D9P4YZY8",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1387,7 +1375,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Paper Cup 9 ounce with Handle, 50-Pieces",
       "nameAr": "هوت باك كوب ورقي بمقبض 9 أونصة 50 قطعة 266 مل",
@@ -1399,28 +1387,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.59,
         "asin": "B09VXP54VL",
         "url": "https://www.amazon.sa/dp/B09VXP54VL",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Microwave Container 750ml 8+2 Free Pack, White, Clip-On Lid, 10 Pieces",
       "nameAr": "هوت باك حاويات مايكروويف 750 مل زائد أغطية 10 قطع",
@@ -1432,28 +1420,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.61,
         "asin": "B087K2T6J4",
         "url": "https://www.amazon.sa/dp/B087K2T6J4",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Hotpack Kraft Ripple Cup + White Lids, 10 Pieces, 8 Oz.",
       "nameAr": "هوت باك  أكواب ورقية كرافت 8 أونصة 10 قطع",
@@ -1465,28 +1453,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.54,
         "asin": "B07P9FL8S6",
         "url": "https://www.amazon.sa/dp/B07P9FL8S6",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 21.13,
+        "price": 21.28,
         "originalPrice": 23.75,
         "sku": "BZ3402",
         "hsId": "5c7126a7-de62-4c80-98c5-63e4ec8f5c75",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Soft N Cool Toilet Tissue Rolls 100 Sheet- 10 Rolls Per Pack",
       "nameAr": "هوت باك مناديل دورة مياة  سوفت آند كول 100 قطعة عبوة من 10 لفات",
@@ -1498,28 +1486,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 12.49,
         "asin": "B07NF5XC63",
         "url": "https://www.amazon.sa/dp/B07NF5XC63",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.57,
+        "price": 20.72,
         "originalPrice": 28.75,
         "sku": "15HOK6",
         "hsId": "0af50581-68ea-4327-aaba-461aadfc4426",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Paper Plate - 7 - 100 Pcs"
     },
@@ -1532,14 +1520,14 @@
         "isAvailable": true,
         "productId": "19293941",
         "url": "https://ananinja.com/sa/en/product/hotpack-garbage-bag-95-120cm-regular-economy-60gallon-15pcs-19293941",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 13.2,
         "asin": "B087KLG77R",
         "url": "https://www.amazon.sa/dp/B087KLG77R",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1549,7 +1537,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Bags Twin Pack 60 Gallon 24 Bags\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Garbage Bag 95X120 cm, Regular Economy 60 Gallon, 15 Pieces",
       "nameAr": "هوت باك أكياس نفايات 95*120 سم اقتصادي عادي 60 جالون 15 قطعة",
@@ -1564,14 +1552,14 @@
         "isAvailable": true,
         "productId": "19293954",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-round-plate-9-25pcs-19293954",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 13.3,
         "asin": "B07NF7SHLQ",
         "url": "https://www.amazon.sa/dp/B07NF7SHLQ",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1581,7 +1569,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (20%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable White Plastic Plates Round 9 inch, 25 Pieces",
       "nameAr": "هوت باك طبق بلاستيك دائري 9 بوصة  25 قطعة",
@@ -1599,28 +1587,28 @@
         "isAvailable": true,
         "productId": "19293939",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-foil-embossed-37-5-sqft-19293939",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 9.91,
         "asin": "B07P67NND8",
         "url": "https://www.amazon.sa/dp/B07P67NND8",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 100,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1635,28 +1623,28 @@
         "isAvailable": true,
         "productId": "19386202",
         "url": "https://ananinja.com/sa/en/product/hotpack-garbage-bag-105x130-cm-regular-economy-70-gallon-10-pcs-19386202",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 13.35,
         "asin": "B087JZBX89",
         "url": "https://www.amazon.sa/dp/B087JZBX89",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1668,28 +1656,28 @@
         "isAvailable": true,
         "productId": "19370109",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-pot-with-hood-21cm-5-pcs-19370109",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 14.33,
         "asin": "B08JZ1ZHKT",
         "url": "https://www.amazon.sa/dp/B08JZ1ZHKT",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 28.71,
+        "price": 30.21,
         "originalPrice": 37.75,
         "sku": "09Z4W4",
         "hsId": "bafb0bf5-a447-4269-b271-feec6d73c63a",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Aluminium Food Pot Container with Hood Silver 21cm, 5 Pieces",
       "nameAr": "هوت باك  قدر ألومنيوم بغطاء 21 سم 5 قطع",
@@ -1701,14 +1689,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 13.31,
         "asin": "B09C58NLQX",
         "url": "https://www.amazon.sa/dp/B09C58NLQX",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1718,7 +1706,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Large 55Gallon (Large) 15Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Bio Degradable Heavy Duty Spoon 50 Pieces ' 50 Units"
     },
@@ -1728,14 +1716,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 11.08,
         "asin": "B09NC2QRNM",
         "url": "https://www.amazon.sa/dp/B09NC2QRNM",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1745,7 +1733,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Brown Air Fryer Liners 100 Pieces\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Bamboo Tooth Picks Individually Wrapped 1000 Pieces, White, Wtp"
     },
@@ -1758,28 +1746,28 @@
         "isAvailable": true,
         "productId": "19370105",
         "url": "https://ananinja.com/sa/en/product/hotpack-powder-free-vinyl-gloves-large-100-pcs-19370105",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 46,
         "asin": "B084TRFV2H",
         "url": "https://www.amazon.sa/dp/B084TRFV2H",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.57,
+        "price": 20.72,
         "originalPrice": 28.75,
         "sku": "15HOK6",
         "hsId": "0af50581-68ea-4327-aaba-461aadfc4426",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack vinyl gloves large powder free white 100 pieces",
       "nameAr": "هوت باك  قفازات فينيل خالية من البودرة كبير 100 قطعة",
@@ -1791,14 +1779,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 13.51,
         "asin": "B08JYXSHMM",
         "url": "https://www.amazon.sa/dp/B08JYXSHMM",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1808,7 +1796,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwavable Reusable Containers with Lids 750ml 5 Pieces\" too weak (38%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Bento Boxes, 32oz Round Black Base with Clear Lid, Microwavable Meal Prep Containers 5 Pieces"
     },
@@ -1818,28 +1806,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 6.51,
         "asin": "B087JYZFZN",
         "url": "https://www.amazon.sa/dp/B087JYZFZN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "HOTPACK Heavy Duty Paper Cup 8 Oz, 20 Pieces"
     },
@@ -1849,14 +1837,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 15.39,
         "asin": "B07NF7D8QH",
         "url": "https://www.amazon.sa/dp/B07NF7D8QH",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1866,7 +1854,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Vinyl Disposable Examination Gloves Large 100 Pieces\" too weak (27%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack This Product Contains The Following Features: Brand: Hotpack Color: White Type: Disposable Plates Number Of Pieces: 100 Pieces"
     },
@@ -1876,14 +1864,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 15.1,
         "asin": "B07PQ63Y1N",
         "url": "https://www.amazon.sa/dp/B07PQ63Y1N",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1893,7 +1881,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (13%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack 10-Inch Plastic Plate and 6 oz Plastic Cup Set 75-Pieces"
     },
@@ -1903,14 +1891,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 16.46,
         "asin": "B09VXND76Z",
         "url": "https://www.amazon.sa/dp/B09VXND76Z",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1919,8 +1907,8 @@
       "hungerStation": {
         "price": null,
         "isAvailable": false,
-        "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "error": "Best match \"Hotpack Aluminium Containers with Lids 890cc 20 Pieces\" too weak (42%)",
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Food Storage, Food Packaging, Aluminium Container 890ml with Lid, 20 Pieces 15% Offer"
     },
@@ -1933,14 +1921,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 14.73,
         "asin": "B08JZ4K3W6",
         "url": "https://www.amazon.sa/dp/B08JZ4K3W6",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -1950,7 +1938,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Perforated Table Sheets Value Pack 12x100x100cm\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1965,28 +1953,28 @@
         "isAvailable": true,
         "productId": "19293960",
         "url": "https://ananinja.com/sa/en/product/hotpack-food-wrap-cling-film-300sqft-19293960",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 16.21,
         "asin": "B07PBKLG6R",
         "url": "https://www.amazon.sa/dp/B07PBKLG6R",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 7.37,
+        "price": 7.72,
         "originalPrice": 8.75,
         "sku": "FOX52F",
         "hsId": "5cd7d6c5-4275-4427-ba54-8e680b1dee29",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -1998,28 +1986,28 @@
         "isAvailable": true,
         "productId": "19370101",
         "url": "https://ananinja.com/sa/en/product/hotpack-black-base-rectangular-microwavable-container-with-lids-28-oz-5-pcs-19370101",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 15.95,
         "asin": "B08JZ4Z749",
         "url": "https://www.amazon.sa/dp/B08JZ4Z749",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 9.17,
+        "price": 9.61,
         "originalPrice": 10.95,
         "sku": "27F71K",
         "hsId": "bcdea8e5-53b3-4fae-8326-ce1dee7a9b89",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Microwavable Containers, 28oz Rectangular Black Base with Lids, Disposable Food Prep & Storage Containers |5 Pieces",
       "nameAr": "هوت باك  حاوية قابلة للميكروويف بقاعدة سوداء مستطيلة مع أغطية 28 أونصة 5 قطع",
@@ -2031,28 +2019,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 17.65,
         "asin": "B07P8B2QYN",
         "url": "https://www.amazon.sa/dp/B07P8B2QYN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 21.13,
+        "price": 21.28,
         "originalPrice": 23.75,
         "sku": "BZ3402",
         "hsId": "5c7126a7-de62-4c80-98c5-63e4ec8f5c75",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Soft n cool toilet tissue rolls 200 sheet- 10 rolls per pack",
       "nameAr": "سوفت و كول  مناديل حمام   200 ورقة 10 رول",
@@ -2064,14 +2052,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 14.95,
         "asin": "B07P6GRLS5",
         "url": "https://www.amazon.sa/dp/B07P6GRLS5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2081,7 +2069,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Vinyl Disposable Examination Gloves Large 100 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable White Plastic Plates Round 10 inch, 25 Pieces"
     },
@@ -2094,28 +2082,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 16.46,
         "asin": "B07NF85NH1",
         "url": "https://www.amazon.sa/dp/B07NF85NH1",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 75,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -2130,28 +2118,28 @@
         "isAvailable": true,
         "productId": "19370102",
         "url": "https://ananinja.com/sa/en/product/hotpack-hd-microwave-container-750ml-with-colour-lid-10-pcs-19370102",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 16.43,
         "asin": "B0CXDYH9LV",
         "url": "https://www.amazon.sa/dp/B0CXDYH9LV",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -2163,14 +2151,14 @@
         "isAvailable": true,
         "productId": "19293946",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-round-plate-10-3-compartment-25pcs-19293946",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 17.12,
         "asin": "B07NF7XMZN",
         "url": "https://www.amazon.sa/dp/B07NF7XMZN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2180,7 +2168,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (17%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Disposable Plates - 25 Pieces",
       "nameAr": "هوت باك طبق بلاستيك دائري 10 بوصة 3 أقسام 25 قطعة",
@@ -2195,13 +2183,13 @@
         "isAvailable": true,
         "productId": "19370104",
         "url": "https://ananinja.com/sa/en/product/hotpack-air-fryer-paper-brown-round-liners-16-4-5cm-100-pcs-19370104",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2215,7 +2203,7 @@
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Air Fryer Paper Brown Round Liners 16*4.5cm 100 pcs",
       "nameAr": "هوت باك  أوراق مقلاة هوائية بنية دائرية مقاس 16×4.5 سم 100 قطعة",
@@ -2230,28 +2218,28 @@
         "isAvailable": true,
         "productId": "19293935",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-container-10pcs-1200-ml-19293935",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 18.41,
         "asin": "B07PH3D4C5",
         "url": "https://www.amazon.sa/dp/B07PH3D4C5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 20.91,
+        "price": 22.01,
         "originalPrice": 27.5,
         "sku": "TZCBGR",
         "hsId": "21f971fb-367e-4f39-be65-f29ed9579c98",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Aluminium Container W/Lid Rectangle 1200ml 10Pcs",
       "nameAr": "هوت باك  حافظة طعام المنيوم  10 قطع 1200 ملي",
@@ -2263,14 +2251,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 17.05,
         "asin": "B0BT234FZ3",
         "url": "https://www.amazon.sa/dp/B0BT234FZ3",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2280,7 +2268,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Clear Pet Cup Dome Lid 12Oz 25pcs",
       "nameAr": "هوت باك أغطية قبة شفافة لأكواب حجم 12 أونصة 25 قطعة 355 مل",
@@ -2292,14 +2280,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 17.22,
         "asin": "B07P67NLSP",
         "url": "https://www.amazon.sa/dp/B07P67NLSP",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2309,7 +2297,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (14%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Non-stick Parchment Baking paper - 75 sq.ft.- 1Pc"
     },
@@ -2319,28 +2307,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 18.61,
         "asin": "B087JZN43V",
         "url": "https://www.amazon.sa/dp/B087JZN43V",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Aluminium Foil, Embossed - 75 Sqft 1 Units"
     },
@@ -2350,14 +2338,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 17.13,
         "asin": "B07NF6X4ZN",
         "url": "https://www.amazon.sa/dp/B07NF6X4ZN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2367,7 +2355,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft n Cool Eco-Friendly Toilet Maxi Roll 300m 1Piece\" too weak (42%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Soft N Cool Eco-Friendly, Highly Absorbent, Premium Quality Paper Maxi Roll, 2 Ply, 130meters, 1 Roll"
     },
@@ -2377,13 +2365,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2393,7 +2381,7 @@
         "price": null,
         "isAvailable": false,
         "error": "No product name available for matching",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       }
     },
     {
@@ -2402,28 +2390,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 18.92,
         "asin": "B07PSG6HSQ",
         "url": "https://www.amazon.sa/dp/B07PSG6HSQ",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "name": "Hotpack Heavy Duty Black Garbage Bags 30 Gallon, Medium, 65x95cm, 30 Pieces 1-Roll",
       "nameAr": "هوت باك أكياس قمامة سوداء سميكة متوسطة التحمل 65×95 سم 30 جالون 30 قطعة",
@@ -2438,14 +2426,14 @@
         "isAvailable": true,
         "productId": "19386204",
         "url": "https://ananinja.com/sa/en/product/hotpack-disposable-paper-cup-6-ounce-150-pcs-offer-pack-177-ml-19386204",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "amazon": {
         "price": 18.63,
         "asin": "B0B6P9ZZHK",
         "url": "https://www.amazon.sa/dp/B0B6P9ZZHK",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.829Z"
       },
       "keeta": {
         "price": null,
@@ -2455,7 +2443,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty White Dustbin Liners 150 Bags\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Paper Cup 6 ounce, 150 Pieces Offer Pack",
       "nameAr": "هوت باك أكواب ورقية للاستعمال مرة واحدة 6 أونصات عرض 150 قطعة 177 مل",
@@ -2467,28 +2455,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 11.95,
         "asin": "B087GPCS34",
         "url": "https://www.amazon.sa/dp/B087GPCS34",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 7.37,
+        "price": 7.72,
         "originalPrice": 8.75,
         "sku": "FOX52F",
         "hsId": "5cd7d6c5-4275-4427-ba54-8e680b1dee29",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Cling Film 1 Roll (100 Sqft)"
     },
@@ -2498,28 +2486,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 17.07,
         "asin": "B07P9FLJFH",
         "url": "https://www.amazon.sa/dp/B07P9FLJFH",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.84,
-        "originalPrice": 34.75,
-        "sku": "7240BF",
-        "hsId": "e640e503-1045-4067-ae25-523a17ba458e",
+        "price": 36,
+        "originalPrice": 36,
+        "sku": "4ZL652",
+        "hsId": "c9e96ddb-8454-470b-b7f3-edfc7ba6edc0",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Ultra Soft & Strong Facial Tissues,5 Boxes -2 Ply"
     },
@@ -2532,13 +2520,13 @@
         "isAvailable": true,
         "productId": "19370093",
         "url": "https://ananinja.com/sa/en/product/hotpack-air-fryer-paper-brown-round-liners-20-4-5cm-100-pcs-19370093",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2552,7 +2540,7 @@
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Air Fryer Paper Brown Round Liners 20x4.5cm, 100-Pieces",
       "nameAr": "هوت باك  أوراق مقلاة هوائية بنية دائرية مقاس 20×4.5 سم 100 قطعة",
@@ -2567,14 +2555,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 19.22,
         "asin": "B07P5JG9YV",
         "url": "https://www.amazon.sa/dp/B07P5JG9YV",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2584,7 +2572,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -2596,14 +2584,14 @@
         "isAvailable": true,
         "productId": "19370120",
         "url": "https://ananinja.com/sa/en/product/hotpack-wooden-coffee-stirrer-14-cm-1000-pcs-19370120",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 13.11,
         "asin": "B07P9VLXCJ",
         "url": "https://www.amazon.sa/dp/B07P9VLXCJ",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2613,7 +2601,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Brown Air Fryer Liners 100 Pieces\" too weak (40%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Wooden Coffee Stirrer 14CM- 1000Pcs",
       "nameAr": "هوت باك  مقلب القهوة الخشبي 14 سم 1000 قطعة",
@@ -2625,14 +2613,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 11.69,
         "asin": "B092BZPH59",
         "url": "https://www.amazon.sa/dp/B092BZPH59",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2646,7 +2634,7 @@
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 55,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Eco-Friendly High Absorbency Kitchen Maxi Roll Tissue, 1Ply x 300meter",
       "nameAr": "رول ماكسي مناديل مطبخ 300 متر عبوة اقتصادية 1 حبه",
@@ -2664,28 +2652,28 @@
         "isAvailable": true,
         "productId": "19370111",
         "url": "https://ananinja.com/sa/en/product/hotpack-heavy-duty-drawstring-garbage-bags-30-gallon-60-90cm-20-pcs-19370111",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 21.38,
         "asin": "B07PN2VMLH",
         "url": "https://www.amazon.sa/dp/B07PN2VMLH",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -2694,27 +2682,27 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Foil 45cm X 3.75 Metre 11 Micron 2+1 Free Offer Pack"
     },
@@ -2727,14 +2715,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 21.03,
         "asin": "B092C3QLLP",
         "url": "https://www.amazon.sa/dp/B092C3QLLP",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2744,7 +2732,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -2756,26 +2744,26 @@
         "isAvailable": true,
         "productId": "19293964",
         "url": "https://ananinja.com/sa/en/product/hotpack-plastic-rectangular-tray-no-1-1-kg-19293964",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.57,
+        "price": 29.09,
         "originalPrice": 38.25,
         "sku": "21J717",
         "hsId": "8bc6c591-e782-4766-b263-df0fef799cd4",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Trays 10 pcs",
       "nameAr": "هوت باك صينية بلاستيك مستطيلة رقم 1-1 كجم",
@@ -2787,28 +2775,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 24.81,
         "asin": "B07P75RLQL",
         "url": "https://www.amazon.sa/dp/B07P75RLQL",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 30.24,
+        "price": 31.68,
         "originalPrice": 36,
         "sku": "04QD95",
         "hsId": "dc4e4522-205b-4ec7-88f2-7c4db8804804",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool White Facial Tissue 2 Ply, 150 Sheets, Pack of 5 Boxes"
     },
@@ -2818,13 +2806,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2834,7 +2822,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Govyy Car Cleaning Towels 25Pieces\" too weak (11%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "DMG TECH RC Cars Robot Transformer Toy, Remote Control Car Robot with LED Light, Intelligent Vehicle for Boys & Girls Age 6-16 (Red)"
     },
@@ -2850,27 +2838,27 @@
         "isAvailable": true,
         "productId": "19370089",
         "url": "https://ananinja.com/sa/en/product/marjaan-facial-tissue-2-ply-130-pulls-5-bo-es-1-bo-free-19370089",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.33,
+        "price": 28.62,
         "originalPrice": 32.5,
         "sku": "8U670X",
         "hsId": "ecff686a-7b19-4375-8b7e-24b5d7779251",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -2879,14 +2867,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 25.75,
         "asin": "B087GQBKJ9",
         "url": "https://www.amazon.sa/dp/B087GQBKJ9",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -2896,7 +2884,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Aluminium Container Combo Pack 30 Pieces\" too weak (29%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Combo Pack - Food Storage, Food Packaging Aluminium Food Storage Container 1850cc + 890cc+ 420cc, 30 Pieces"
     },
@@ -2909,28 +2897,28 @@
         "isAvailable": true,
         "productId": "19370121",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-pot-container-with-lid-25cm-6-pcs-5-1-free-19370121",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 25.27,
         "asin": "B0BT7NLM1K",
         "url": "https://www.amazon.sa/dp/B0BT7NLM1K",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 28.71,
+        "price": 30.21,
         "originalPrice": 37.75,
         "sku": "09Z4W4",
         "hsId": "bafb0bf5-a447-4269-b271-feec6d73c63a",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 63,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Pot 25cm, 5+1",
       "nameAr": "هوت باك أوعية ألومنيوم بغطاء 25 سم 6 قطع 5 + 1 مجانا",
@@ -2945,28 +2933,28 @@
         "isAvailable": true,
         "productId": "19370129",
         "url": "https://ananinja.com/sa/en/product/hotpack-black-base-rectangular-with-lid-10-pcs-8-2-free-19370129",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 24.13,
         "asin": "B09VXNSP1S",
         "url": "https://www.amazon.sa/dp/B09VXNSP1S",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Black Base Rectangular 38Oz with Lid 8+2 Free",
       "nameAr": "هوت باك  قاعدة سوداء مستطيلة بغطاء 10 قطع 8 + 2 مجاناً",
@@ -2984,27 +2972,27 @@
         "isAvailable": true,
         "productId": "19370115",
         "url": "https://ananinja.com/sa/en/product/marjaan-facial-tissue-170-pulls-2-ply-4-bo-es-1-bo-free-19370115",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.33,
+        "price": 28.62,
         "originalPrice": 32.5,
         "sku": "8U670X",
         "hsId": "ecff686a-7b19-4375-8b7e-24b5d7779251",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 86,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3016,27 +3004,27 @@
         "isAvailable": true,
         "productId": "19370091",
         "url": "https://ananinja.com/sa/en/product/hotpack-sofra-roll-100-120cm-20-sheets-19370091",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 26.63,
+        "price": 27.11,
         "originalPrice": 30.25,
         "sku": "K0LP1P",
         "hsId": "2a0857c0-e836-4823-8456-ddc5edc85ecf",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 100,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Sofra Roll 100*120cm 20 Sheets",
       "nameAr": "هوت باك  سفرة رول 100*120 سم 20 ورقة",
@@ -3048,28 +3036,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 23.39,
         "asin": "B07T4XBS6G",
         "url": "https://www.amazon.sa/dp/B07T4XBS6G",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Heavy Duty Black Garbage Bag 55 Gallon, Large, 80x110cm, 10 Pieces X 2+1 Free Offer Pack"
     },
@@ -3082,14 +3070,14 @@
         "isAvailable": true,
         "productId": "19386222",
         "url": "https://ananinja.com/sa/en/product/hotpack-disposable-paper-cups-with-handle-7oz-50-pcs-pack-of-3-150-cups-207-ml-19386222",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 26.27,
         "asin": "B0B6P9FFQC",
         "url": "https://www.amazon.sa/dp/B0B6P9FFQC",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3099,7 +3087,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty White Dustbin Liners 150 Bags\" too weak (20%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Paper Cups with Handle 7oz, 50 Pieces Pack of 3, 150 Cups",
       "nameAr": "هوت باك أكواب ورقية بمقبض 7 أونصات 50 قطعة × 3 علب (150 كوب) 207 مل",
@@ -3111,28 +3099,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 23.16,
         "asin": "B087GPDCY8",
         "url": "https://www.amazon.sa/dp/B087GPDCY8",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 30.24,
+        "price": 31.68,
         "originalPrice": 36,
         "sku": "04QD95",
         "hsId": "dc4e4522-205b-4ec7-88f2-7c4db8804804",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 56,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool White Facial Tissue 2 Ply, 150 Sheets, Pack of 5+1 Free Box Offer Pack"
     },
@@ -3142,28 +3130,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 8.93,
         "asin": "B0DX8MC57C",
         "url": "https://www.amazon.sa/dp/B0DX8MC57C",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.84,
-        "originalPrice": 34.75,
-        "sku": "7240BF",
-        "hsId": "e640e503-1045-4067-ae25-523a17ba458e",
+        "price": 36,
+        "originalPrice": 36,
+        "sku": "4ZL652",
+        "hsId": "c9e96ddb-8454-470b-b7f3-edfc7ba6edc0",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 78,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Tissue Pyl Pack 200 Sheets X 2-Ply – 5 Packs Premium Facial Tissue"
     },
@@ -3173,14 +3161,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 29.17,
         "asin": "B0B6PJ6BS1",
         "url": "https://www.amazon.sa/dp/B0B6PJ6BS1",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3190,7 +3178,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Large 55Gallon (Large) 15Pieces\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack White Trash Bags 45x55cm, 10 Gallon, 50 Pieces per Pack, Pack of 3 (150 Pieces Total) - Durable & Heavy Duty Waste Bags for Home, Office, & Commercial Use"
     },
@@ -3203,28 +3191,28 @@
         "isAvailable": true,
         "productId": "19370118",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-container-with-lid-20-pcs-15-offer-19370118",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 31.23,
         "asin": "B09VXN972F",
         "url": "https://www.amazon.sa/dp/B09VXN972F",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
-        "originalPrice": 18.25,
-        "sku": "9Z4W83",
-        "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
+        "price": 15.5,
+        "originalPrice": 15.5,
+        "sku": "K108VS",
+        "hsId": "06f3a83c-1caa-4d75-85ce-5bbe12ca31ef",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
-        "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "matchScore": 83,
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Container 1850ml with Lid 20 Pieces 15% Offer",
       "nameAr": "هوت باك  حاوية المنيوم بالغطاء 20 قطعة عرض 15%",
@@ -3236,14 +3224,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 17.95,
         "asin": "B07T4XM6BR",
         "url": "https://www.amazon.sa/dp/B07T4XM6BR",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3253,7 +3241,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Micro-Embossed Aluminium Foil 25 sqft\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Foil Roll Mega Jumbo Catering Pack for Industrial Food Service (37.5L x 45W centimeters)"
     },
@@ -3266,28 +3254,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
-        "price": 31.05,
+        "price": 30.35,
         "asin": "B092C3N25Z",
         "url": "https://www.amazon.sa/dp/B092C3N25Z",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 13.25,
+        "price": 13.87,
         "originalPrice": 15.75,
         "sku": "819ZR7",
         "hsId": "f56f5621-aba0-4244-a7f7-88107a629e44",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3296,14 +3284,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 30.41,
         "asin": "B07NF84M6G",
         "url": "https://www.amazon.sa/dp/B07NF84M6G",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3313,7 +3301,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (20%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Soft N Cool Toilet Roll 400 Sheets, Pack Of 10 Rolls"
     },
@@ -3326,13 +3314,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3346,7 +3334,7 @@
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 80,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3355,28 +3343,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
-        "price": 23.42,
+        "price": 23.36,
         "asin": "B087GPVM9Y",
         "url": "https://www.amazon.sa/dp/B087GPVM9Y",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 33.44,
+        "price": 34.05,
         "originalPrice": 38,
         "sku": "F28487",
         "hsId": "1804f11b-a5b3-4651-b3bb-3e9789442e4f",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Maxi Roll Twin Pack, 350 Meter"
     },
@@ -3389,14 +3377,14 @@
         "isAvailable": true,
         "productId": "19386229",
         "url": "https://ananinja.com/sa/en/product/hotpak-twin-pak-garbge-rl-65x95cm-25-off-19386229",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 21.13,
         "asin": "B087GQB6L5",
         "url": "https://www.amazon.sa/dp/B087GQB6L5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3406,7 +3394,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hot Pack Saudi National Day Double Wall Paper Cup 8Oz 25Pieces\" too weak (17%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Strong & Bio-Degradable Garbage Roll Twin Pack, 30 Gallon 65x95cm, 60 Pieces",
       "nameAr": "هوت باك أكياس قمامة رول مزدوج 65×95 سم خصم 25%",
@@ -3421,28 +3409,28 @@
         "isAvailable": true,
         "productId": "19386193",
         "url": "https://ananinja.com/sa/en/product/hotpack-heavy-duty-garbage-bag-roll-twin-pack-80x110-30pcs-19386193",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 32.57,
         "asin": "B07PDZSR8R",
         "url": "https://www.amazon.sa/dp/B07PDZSR8R",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 51.45,
+        "price": 53.9,
         "originalPrice": 61.25,
         "sku": "NPAVEC",
         "hsId": "09ce2829-3291-4ce0-befe-a5e83c3a3204",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Hd Garbage Bag Roll, 2 X 15 Bags, 80 X 110 Cm 55 Gallon",
       "nameAr": "هوت باك أكياس قمامة قوية رول مزدوج 80×110 سم 30 قطعة",
@@ -3454,14 +3442,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 21.54,
         "asin": "B07PKD977L",
         "url": "https://www.amazon.sa/dp/B07PKD977L",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3471,7 +3459,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft N Cool Maxi Roll 1 Ply Value Pack 2X175M\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Maxi Roll Twin Pack, 260 Meter, 2 Units"
     },
@@ -3481,13 +3469,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3497,7 +3485,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Govyy Car Cleaning Towels 25Pieces\" too weak (7%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "D-power – Porsche 911 GT3 RS Dark Grey | Die-Cast Replica, Ultimate Collector's Item, American Muscle Cars | Toy Vehicles, Metal Toy Car Model - Pull Back Collection | Size - 1:32, For Kids 3+",
       "nameAr": "هوت باك ورق ساندويتش أبيض 800 ورقة",
@@ -3512,14 +3500,14 @@
         "isAvailable": true,
         "productId": "19386206",
         "url": "https://ananinja.com/sa/en/product/hotpack-strong-biodegradable-heavy-duty-disposable-black-garbage-bag-30-gallon-medium-65x95cm-20-pcs-x-pack-of-3-offer-pack-19386206",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
-        "price": 35.7,
+        "price": 34.25,
         "asin": "B092BTLHZX",
         "url": "https://www.amazon.sa/dp/B092BTLHZX",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3529,7 +3517,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Large 55Gallon (Large) 15Pieces\" too weak (45%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack, Strong & Bio-Degradable Heavy Duty Disposable Black Garbage Bag 30 Gallon, Medium 65x95cm, 20 Pieces X Pack of 3 Offer Pack",
       "nameAr": "هوت باك أكياس قمامة سوداء قوية وقابلة للتحلل 30 جالون وسط 65×95 سم 20 قطعة × 3 علب (عرض)",
@@ -3544,28 +3532,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 30.06,
         "asin": "B087GPRM49",
         "url": "https://www.amazon.sa/dp/B087GPRM49",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 27.84,
-        "originalPrice": 34.75,
-        "sku": "7240BF",
-        "hsId": "e640e503-1045-4067-ae25-523a17ba458e",
+        "price": 36,
+        "originalPrice": 36,
+        "sku": "4ZL652",
+        "hsId": "c9e96ddb-8454-470b-b7f3-edfc7ba6edc0",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3577,14 +3565,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 39.95,
         "asin": "B07T5ZFDBR",
         "url": "https://www.amazon.sa/dp/B07T5ZFDBR",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3594,7 +3582,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Black Garbage Large 55Gallon (Large) 15Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3603,14 +3591,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 40.34,
         "asin": "B08JZ245LN",
         "url": "https://www.amazon.sa/dp/B08JZ245LN",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3620,7 +3608,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft N Cool 2-Ply White Tissue 5x150 Pieces\" too weak (20%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool, Hotpack - 5 Pieces Aluminium Pot With Hood 29 Centimetre, Sliver, Hsmapot29"
     },
@@ -3630,14 +3618,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 46.42,
         "asin": "B087KN4GGB",
         "url": "https://www.amazon.sa/dp/B087KN4GGB",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3647,7 +3635,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Micro-Embossed Aluminium Foil 25 sqft\" too weak (47%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Heavy Duty Embossed Silver Aluminium Foil 30cm width 200 Sqft for food wrap, 1 Roll"
     },
@@ -3657,14 +3645,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 46.96,
         "asin": "B07NF7GYZL",
         "url": "https://www.amazon.sa/dp/B07NF7GYZL",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3674,7 +3662,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Heavy-Duty Micro-Embossed Aluminium Foil 25 sqft\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Foil Roll Mega Jumbo Catering Pack for Industrial Food Service (300 meters)"
     },
@@ -3687,28 +3675,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 45.55,
         "asin": "B087GQ3FTT",
         "url": "https://www.amazon.sa/dp/B087GQ3FTT",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 75,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3717,28 +3705,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 47.58,
         "asin": "B07T3WQMXY",
         "url": "https://www.amazon.sa/dp/B07T3WQMXY",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 80,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hot Pack Hd Garbage Bag Roll - Twin 60 Gallon, X-Large (24 Pieces)",
       "nameAr": "هوت باك أكياس قمامة سوداء قوية قابلة للتحلل بالأكسدة رول مزدوج 60 جالون كبير جدًا 24 قطعة",
@@ -3750,28 +3738,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 48,
         "asin": "B07P8B2QB9",
         "url": "https://www.amazon.sa/dp/B07P8B2QB9",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 33.44,
+        "price": 34.05,
         "originalPrice": 38,
         "sku": "F28487",
         "hsId": "1804f11b-a5b3-4651-b3bb-3e9789442e4f",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Maxi Roll Twin Pack, 600 Meter"
     },
@@ -3781,28 +3769,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 58.85,
         "asin": "B07PN2R2TZ",
         "url": "https://www.amazon.sa/dp/B07PN2R2TZ",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 71,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Foil, Embossed - 250 Sqft, 1 Units"
     },
@@ -3818,28 +3806,28 @@
         "isAvailable": true,
         "productId": "19370110",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-foil-200-sqft-twin-pack-19370110",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 62.95,
         "asin": "B0B6P74Z19",
         "url": "https://www.amazon.sa/dp/B0B6P74Z19",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3848,27 +3836,27 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Heavy Duty Garbage Bag Roll, 15 Bags, 80x110cm 55 Gallon Pack of 3-45 Bags"
     },
@@ -3878,28 +3866,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 73.37,
         "asin": "B09VXRC4RY",
         "url": "https://www.amazon.sa/dp/B09VXRC4RY",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
-        "originalPrice": 18.25,
-        "sku": "9Z4W83",
-        "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
+        "price": 15.5,
+        "originalPrice": 15.5,
+        "sku": "K108VS",
+        "hsId": "06f3a83c-1caa-4d75-85ce-5bbe12ca31ef",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
-        "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "matchScore": 71,
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Rectangle Container 1850Ml With Lid 50 Pieces"
     },
@@ -3912,14 +3900,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 76.67,
         "asin": "B0CNGKST55",
         "url": "https://www.amazon.sa/dp/B0CNGKST55",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -3929,7 +3917,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Aluminum Foil 45cm 3 Packets\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3944,28 +3932,28 @@
         "isAvailable": true,
         "productId": "19370112",
         "url": "https://ananinja.com/sa/en/product/hotpack-aluminium-pop-up-foil-12-10-3-4-500-sheets-19370112",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 119.97,
         "asin": "B0CNGK41Z3",
         "url": "https://www.amazon.sa/dp/B0CNGK41Z3",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -3974,26 +3962,26 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 28.71,
+        "price": 30.21,
         "originalPrice": 37.75,
         "sku": "09Z4W4",
         "hsId": "bafb0bf5-a447-4269-b271-feec6d73c63a",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Aluminium Pot 29cm with Hood, 5+1"
     },
@@ -4003,28 +3991,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 39.08,
         "asin": "B0BT21ZK1Q",
         "url": "https://www.amazon.sa/dp/B0BT21ZK1Q",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 67,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Garbage Bag Roll 65X95cm, 60 Pieces"
     },
@@ -4037,14 +4025,14 @@
         "isAvailable": true,
         "productId": "19386210",
         "url": "https://ananinja.com/sa/en/product/hotpack-ramadan-design-single-wall-paper-cup-6-5-ounce-50-pcs-192-ml-19386210",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 9.13,
         "asin": "B0BT826VZY",
         "url": "https://www.amazon.sa/dp/B0BT826VZY",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4054,7 +4042,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Ramadan Sofra White Roll 100x120cm\" too weak (22%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Seasonal Single Wall Paper Cup 6.5 ounce, 50 Pieces",
       "nameAr": "هوت باك كوب ورقي بطبعة رمضان جدار واحد 6.5 أونصة 50 قطعة 192 مل",
@@ -4066,14 +4054,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 14.35,
         "asin": "B0BT83D1TD",
         "url": "https://www.amazon.sa/dp/B0BT83D1TD",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4083,7 +4071,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Ramadan Sofra White Roll 100x120cm\" too weak (29%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Ramadan Double Wall Paper Cup 8 ounce, 25 Pieces"
     },
@@ -4093,13 +4081,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4109,7 +4097,7 @@
         "price": null,
         "isAvailable": false,
         "error": "No product name available for matching",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -4118,13 +4106,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4134,7 +4122,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "HOTPACK MICROWAVE CONTAINER 500ML 25PCS X 10PKTS (4+1FREE)"
     },
@@ -4144,27 +4132,27 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.55,
+        "price": 25.83,
         "originalPrice": 32.25,
         "sku": "G232Q4",
         "hsId": "5113e59d-7585-44c1-a17e-0a21f405b779",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 100,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Heavy-Duty Micro-Embossed Aluminium Foil 25 sqft"
     },
@@ -4177,27 +4165,27 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 57,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -4206,14 +4194,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 16.62,
         "asin": "B0CXDZS1X6",
         "url": "https://www.amazon.sa/dp/B0CXDZS1X6",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4223,7 +4211,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack HD RIB CONTAINER 2COMP+3COMP COLOR LID 5PCSX2 TWINPACK"
     },
@@ -4233,13 +4221,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4249,7 +4237,7 @@
         "price": null,
         "isAvailable": false,
         "error": "No product name available for matching",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -4261,28 +4249,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 24.21,
         "asin": "B0D7MR82VX",
         "url": "https://www.amazon.sa/dp/B0D7MR82VX",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 32.64,
+        "price": 34.26,
         "originalPrice": 40.75,
         "sku": "4JO4Z8",
         "hsId": "e19978e1-b92e-4489-afbf-0d8207b86bb0",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       }
     },
     {
@@ -4291,28 +4279,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 35.93,
         "asin": "B0D7MR6ZV3",
         "url": "https://www.amazon.sa/dp/B0D7MR6ZV3",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 58,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Heavy Duty Garbage Bag Black 30 Gallon 65x95cm 2 Rolls + White Dustbin Liner Garbage Bag 5 Gallon 45x55cm 1 Roll, Offer Pack"
     },
@@ -4322,28 +4310,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 22.69,
         "asin": "B092C3PSF5",
         "url": "https://www.amazon.sa/dp/B092C3PSF5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 30.24,
+        "price": 31.74,
         "originalPrice": 37.75,
         "sku": "H66K8W",
         "hsId": "eec849ba-058e-4d1c-81d1-e8f17ed11e86",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack trays combo pack set of 10 pieces - pack of 1"
     },
@@ -4353,14 +4341,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 10.66,
         "asin": "B087GNTTY5",
         "url": "https://www.amazon.sa/dp/B087GNTTY5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4370,7 +4358,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (33%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack 12 Oz Paper Juice Cup + Lid, 25 Piece, 360 Cc"
     },
@@ -4380,28 +4368,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 11.62,
         "asin": "B087GPY7V1",
         "url": "https://www.amazon.sa/dp/B087GPY7V1",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 12.44,
+        "price": 13.16,
         "originalPrice": 18.25,
         "sku": "9Z4W83",
         "hsId": "879d107c-e1b2-4a1a-a514-f8e741913999",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 83,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Microwave Container 750 Cc + Lid, Twin Pack, 10 Pieces"
     },
@@ -4411,14 +4399,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 7.65,
         "asin": "B087K1RCP5",
         "url": "https://www.amazon.sa/dp/B087K1RCP5",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4428,7 +4416,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Table Sheets 100x100cm 6 Rolls\" too weak (17%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Phdc4 Paper Coffee Cup 4 Ounce 50 Pieces"
     },
@@ -4438,14 +4426,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 13.06,
         "asin": "B087JZJR8S",
         "url": "https://www.amazon.sa/dp/B087JZJR8S",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4455,7 +4443,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Microwave Container 750cc with Lid 10 Pieces\" too weak (43%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "HOTPACK Paper Ripple Kraft Cup 12 oz 10 Pieces with lid"
     },
@@ -4465,28 +4453,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 29.06,
         "asin": "B087GPS1Z2",
         "url": "https://www.amazon.sa/dp/B087GPS1Z2",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 51.45,
+        "price": 53.9,
         "originalPrice": 61.25,
         "sku": "NPAVEC",
         "hsId": "09ce2829-3291-4ce0-befe-a5e83c3a3204",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 80,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Garbage Roll Twin Pack, 55 Gallon, 80 X 110 Cm, 30 Bags"
     },
@@ -4496,14 +4484,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 6.93,
         "asin": "B07NF7NBDX",
         "url": "https://www.amazon.sa/dp/B07NF7NBDX",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4513,7 +4501,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Perforated Table Sheets Value Pack 12x100x100cm\" too weak (18%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Disposable Paper Cup With Handle 7 ounce for Tea, Coffee & Water, 50 Pieces"
     },
@@ -4523,14 +4511,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 15.61,
         "asin": "B08JZ22R5L",
         "url": "https://www.amazon.sa/dp/B08JZ22R5L",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4540,7 +4528,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hotpack Oxo-Biodegradable White Dustbin Liners 50 pcs\" too weak (25%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Bio-Degradable Ecofriendly Paper Pulp Plate, White 10 Inch Set for Meals & Events- 10 pieces"
     },
@@ -4550,14 +4538,14 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 7.86,
         "asin": "B08JYZ6HP4",
         "url": "https://www.amazon.sa/dp/B08JYZ6HP4",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4567,7 +4555,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft N Cool Multi-Purpose Paper Towel 150 Sheets\" too weak (30%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft n Cool Hotpack - 10 PIECES BIO DEGRADABLE ECOFRIENDLY PAPER PULP BOWL 16 OUNCE,"
     },
@@ -4577,14 +4565,12 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
-        "price": 12.15,
-        "asin": "B08JZ1VPG2",
-        "url": "https://www.amazon.sa/dp/B08JZ1VPG2",
-        "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "price": null,
+        "isAvailable": false,
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4594,7 +4580,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Soft N Cool 2-Ply White Tissue 5x150 Pieces\" too weak (18%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Hotpack - 5 Pieces Black Base Rectangular Microwavable Container With Lids 38 Ounce, Hsmbb8388"
     },
@@ -4604,28 +4590,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 8.44,
         "asin": "B0BNJ3CT5R",
         "url": "https://www.amazon.sa/dp/B0BNJ3CT5R",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 60,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Hotpack Heavy Duty Plastic White Fork, 50 Pieces"
     },
@@ -4635,13 +4621,13 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Amazon.sa",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
@@ -4651,7 +4637,7 @@
         "price": null,
         "isAvailable": false,
         "error": "Best match \"Hala 2 Ply Soft & Strong Face Tissue 10×160Sheets\" too weak (17%)",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Uni Dove Purifying Face Soap 100g"
     },
@@ -4661,28 +4647,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
         "price": 12.71,
         "asin": "B09JCH8L1P",
         "url": "https://www.amazon.sa/dp/B09JCH8L1P",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 19.8,
+        "price": 20.16,
         "originalPrice": 22.5,
         "sku": "VKMPM2",
         "hsId": "0e423054-7660-4305-8537-9ea0c25c5f5c",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 50,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "HEADPHONES"
     },
@@ -4692,28 +4678,28 @@
         "price": null,
         "isAvailable": false,
         "error": "Product not found on Ninja",
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "amazon": {
-        "price": 23.09,
+        "price": 20.78,
         "asin": "B07PCMTYGS",
         "url": "https://www.amazon.sa/dp/B07PCMTYGS",
         "isAvailable": true,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "keeta": {
         "price": null,
         "lastChecked": null
       },
       "hungerStation": {
-        "price": 24.41,
+        "price": 25.63,
         "originalPrice": 30.5,
         "sku": "7WOJIF",
         "hsId": "c6f19305-7b2c-4f8f-9a8e-acb7abcf56f6",
         "url": "https://hungerstation.com/sa-en/qc/hmarket",
         "isAvailable": true,
         "matchScore": 63,
-        "lastChecked": "2026-10-06T13:02:43.802Z"
+        "lastChecked": "2026-10-07T12:55:11.830Z"
       },
       "name": "Soft N Cool Embossed Maxi Paper Roll 1Ply 300 Meter"
     }
